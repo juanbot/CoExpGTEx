@@ -1,0 +1,4 @@
+
+initNetworks = function(){
+
+}
