@@ -1,0 +1,63 @@
+"","tan","magenta","pink","purple","black","red","brown","turquoise","green","greenyellow"
+"Astrocytes, highly probable (Cahoy, 2008)",1,1,1,1,1,1,1.00251594395325e-59,1,1,1
+"Astrocytes module in Cortex",1,1,1,1,9.34231338972323e-17,1,9.23986650063787e-62,1,1,1
+"Microglia in Human brain Module (Geschwind, 2010)",1,4.32655487118804e-82,1,1,1,1,1,1,1,1
+"Microglia (Type2) module in Cortex",1,1.51658554478058e-29,1,1,0.0118709802399362,1,1,1,1,1
+"Neuron in Human brain Module (Geschwind,2010)",1,1,1,1,1,1,1,2.5986439174221e-108,1,1
+"Neuron module in Cortex",1,1,1,1,1,1,1,6.09095971983734e-72,1,1
+"Neuron, pyramidal in network from Sugino/Winden",1,1,8.23111817254462e-07,1,1,1,1,1.57772924143737e-11,1,1
+"Microglia (Type 1) (Geschwind, 2010)",1,2.7028039136893e-85,1,1,1,1,1,1,1,1
+"Neuron, definite (Cahoy, 2008)",1,1,1,1,1,1,1,3.40494307378973e-35,2.33504708650034e-08,1
+"Oligodendrocytes in Human brain Module (Geschwind,2010)",1,1,1,1,5.8637818034284e-08,2.41235965070626e-138,1,1,1,1
+"Oligodendrocytes in Cortex",1,1,1,1,1,9.06478109226923e-72,1,1,1,1
+"Oligodendrocytes, definite (Cahoy, 2008)",1,1,1,1,1,2.82243333796987e-33,1,1,1,1
+"Oligodendrocytes from conservative data set (Lein, 2007)",1,1,1,1,1,8.19683714920808e-15,1,1,1,1
+"Neuron, probably (Cahoy, 2008)",1,1,1,1,1,1,1,2.00659565749522e-138,3.50161048677822e-44,1
+"Astrocytes-Cahoy",1,1,1,1,1,1,2.30605042556355e-13,1,1,1
+"Neuron-Dopaminergic-Cahoy",1,1,1,1,1,1,1,1,1,1
+"Neurons-Cahoy",1,1,1,1,1,1,1,0.00648433305384095,1,1
+"Oligodendrocytes-Cahoy",1,1,1,1,1,7.32222066634735e-06,1,1,1,1
+"Ependymal-External",1,1,1,1,1,1,0.0124619162229841,1,1,1
+"Oligodendrocyte-External",1,1,1,1,1,2.35286899597817e-39,1,1,1,1
+"Microglia-External",1,4.0405334281511e-79,1,1,1,1,1,1,1,1
+"Neuron_Pyramidal_CA1-External",1,1,1,1,1,1,1,1.34346562320145e-12,3.46705849919323e-08,1
+"Neuron_Interneuron-External",1,1,1,1,1,1,1,2.6795103825399e-15,1.38281954563959e-09,1
+"Endothelial-External",1,4.56569731612142e-28,1,1,1.74792058145088e-05,1,1,1,1,1
+"Neuron_Pyramidal_S1-External",1,1,1,1,1,1,1,1.82792944637374e-07,1.14659558239096e-11,1
+"Astrocyte-External",1,1,1,1,1,1,2.60685154125445e-36,1,1,1
+"Mural-External",1,7.89181583367803e-05,1,1,1,1,1,1,1,1
+"Neuron_Dopaminergic-External",1,1,1,1,1,1,1,1,6.67867015225936e-07,1
+"Neuron_Dopaminergic_SNigra-External",1,1,1,1,1,1,1,3.79772206943311e-06,1,1
+"Neuron_Dopaminergic_VTA-External",1,1,1,1,1,1,1,1,1,1
+"In1-External",1,1,1,1,1,1,1,0.0029927408537612,1,1
+"In2-External",1,1,1,1,1,1,1,1,1,1
+"In3-External",1,1,1,1,1,1,1,1,1,1
+"In4-External",1,1,1,1,1,1,1,1,1,1
+"In5-External",1,1,1,1,1,1,1,1,1,1
+"In6-External",1,1,1,1,1,1,1,1,1,1
+"In7-External",1,1,1,1,1,1,1,1,1,1
+"In8-External",1,1,1,1,1,1,1,1,1,1
+"Ex1-External",1,1,1,1,1,1,1,1,1,1
+"Ex2-External",1,1,1,1,1,1,1,0.0122437438434297,1,1
+"Ex3-External",1,1,1,1,1,1,1,1,1,1
+"Ex4-External",1,1,1,1,1,1,1,0.00387998511760045,1,1
+"Ex5-External",1,1,1,1,1,1,1,1,1,1
+"Ex6-External",1,1,1,1,1,1,0.0239553095921261,1,1,1
+"Ex7-External",1,1,1,1,1,1,1,0.00838549834020089,1,1
+"Ex8-External",1,1,1,1,1,1,1,1,1,1
+"Bcells-External",1,1,1,1,1,1,1,1,1,1
+"CD8Tcells-External",1,1,1,1,1,1,1,1,1,1
+"Cytotoxiccells-External",1,1,1,1,1,1,1,1,1,1
+"Eosinophils-External",1,1,1,1,1,1,1,1,1,1
+"iDC-External",1,1,1,1,1,1,1,1,1,1
+"Macrophages-External",1,0.00904365548212678,1,1,1,1,1,1,1,1
+"Mastcells-External",1,1,1,1,1,1,1,1,1,1
+"NaturalKillers-External",1,1,1,1,1,1,1,1,1,1
+"Neutrophils-External",1,5.92136425866031e-05,1,1,1,1,1,1,1,1
+"Tcells-External",1,1,1,1,1,1,1,1,1,1
+"Tcm-External",1,1,1,1,1,1,1,1,1,1
+"Tem-External",1,1,1,1,1,1,1,1,1,1
+"Tfh-External",1,1,1,1,1,1,1,1,1,1
+"Th1cells-External",1,1,1,1,1,1,1,1,1,1
+"Th2cells-External",1,1,1,1,1,1,1,1,1,1
+"Thelpercells-External",1,1,1,1,1,1,1,1,1,1

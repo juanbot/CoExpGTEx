@@ -1,0 +1,14 @@
+"","Amygdala","AntCingCortex","Caudate","CerebHemisphere","Cerebellum","Cortex","FCortex","Hippocampus","Hypothalamus","NucAccumbens","Putamen","Spinalcord","Substantianigra"
+"Amygdala",0,0,14,1,2,5,6,3,10,14,7,7,7
+"AntCingCortex",0,0,0,3,1,3,-1,5,1,0,1,6,2
+"Caudate",2,3,0,2,-1,5,6,5,6,3,1,2,4
+"CerebHemisphere",2,0,1,0,8,0,0,0,4,1,2,0,0
+"Cerebellum",1,2,1,15,0,4,1,1,0,0,1,1,1
+"Cortex",2,4,0,4,3,0,1,2,4,4,4,6,3
+"FCortex",4,5,6,1,2,4,0,3,0,1,4,1,2
+"Hippocampus",0,4,7,2,4,0,8,0,1,2,2,8,0
+"Hypothalamus",2,9,7,4,5,6,5,11,0,3,4,1,1
+"NucAccumbens",12,11,7,9,5,9,7,20,9,0,6,4,7
+"Putamen",1,-3,4,6,1,5,3,8,7,5,0,6,5
+"Spinalcord",4,2,1,-1,1,6,2,7,9,5,14,0,4
+"Substantianigra",15,12,5,0,0,18,4,9,14,7,13,6,0

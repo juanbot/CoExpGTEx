@@ -1,0 +1,708 @@
+"","InputCategories","UserDefinedCategories","Type","CorrectedPvalues"
+"1","darkred","central glial substance_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",3.68847493661422e-142
+"2","lightgreen","105976_REACTOME_Eukaryotic_Translation_Elongation__Reactome_NCBI_Biosystems","PW_Lists",5.71464866666513e-129
+"3","lightgreen","413404_KEGG_Ribosome,_eukaryotes__Kegg_NCBI_Biosystems","PW_Lists",6.07308034446405e-127
+"4","lightgreen","441_KEGG_Ribosome__Kegg_NCBI_Biosystems","PW_Lists",5.10843764632114e-126
+"5","lightgreen","83036_KEGG_Ribosome__Kegg_NCBI_Biosystems","PW_Lists",5.10843764632114e-126
+"6","lightgreen","105977_REACTOME_Peptide_chain_elongation__Reactome_NCBI_Biosystems","PW_Lists",3.95233529341096e-125
+"7","lightgreen","105978_REACTOME_Eukaryotic_Translation_Termination__Reactome_NCBI_Biosystems","PW_Lists",2.30815523698588e-122
+"8","lightgreen","106077_REACTOME_Viral_mRNA_Translation__Reactome_NCBI_Biosystems","PW_Lists",2.30815523698588e-122
+"9","lightgreen","198853_WikiPathways_Cytoplasmic_Ribosomal_Proteins__Wiki_Pathways_NCBI_Biosystems","PW_Lists",2.30815523698588e-122
+"10","lightgreen","105968_REACTOME_Formation_of_a_pool_of_free_40S_subunits__Reactome_NCBI_Biosystems","PW_Lists",1.53207735977316e-119
+"11","lightgreen","366242_REACTOME_Nonsense_Mediated_Decay_Independent_of_the_Exon_Junction_Complex__Reactome_NCBI_Biosystems","PW_Lists",1.64587426280832e-118
+"12","lightgreen","160955_REACTOME_L13a-mediated_translational_silencing_of_Ceruloplasmin_expression__Reactome_NCBI_Biosystems","PW_Lists",4.67059651702916e-116
+"13","lightgreen","105973_REACTOME_GTP_hydrolysis_and_joining_of_the_60S_ribosomal_subunit__Reactome_NCBI_Biosystems","PW_Lists",1.61039712996267e-115
+"14","lightgreen","105966_REACTOME_Eukaryotic_Translation_Initiation__Reactome_NCBI_Biosystems","PW_Lists",5.19947288866922e-112
+"15","lightgreen","105967_REACTOME_Cap-dependent_Translation_Initiation__Reactome_NCBI_Biosystems","PW_Lists",5.19947288866922e-112
+"16","lightgreen","106074_REACTOME_Influenza_Viral_RNA_Transcription_and_Replication__Reactome_NCBI_Biosystems","PW_Lists",1.21636671149289e-111
+"17","lightgreen","530746_REACTOME_SRP-dependent_cotranslational_protein_targeting_to_membrane__Reactome_NCBI_Biosystems","PW_Lists",2.50370996855647e-110
+"18","lightgreen","105965_REACTOME_Translation__Reactome_NCBI_Biosystems","PW_Lists",2.91634609761153e-108
+"19","lightgreen","366240_REACTOME_Nonsense-Mediated_Decay__Reactome_NCBI_Biosystems","PW_Lists",5.00734680261983e-108
+"20","lightgreen","366241_REACTOME_Nonsense_Mediated_Decay_Enhanced_by_the_Exon_Junction_Complex__Reactome_NCBI_Biosystems","PW_Lists",5.00734680261983e-108
+"21","lightgreen","salmon_M12_Ribosome__HumanMeta","Brain",6.32306305418508e-105
+"22","lightgreen","106068_REACTOME_Influenza_Life_Cycle__Reactome_NCBI_Biosystems","PW_Lists",6.74831932185473e-97
+"23","lightgreen","106067_REACTOME_Influenza_Infection__Reactome_NCBI_Biosystems","PW_Lists",1.33176754824597e-95
+"24","darkred","central glial substance_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",2.938257821889e-85
+"25","darkred","Epithalamus_globalMarker(top200)__HBA","HumanBrainRegions",8.42100879153361e-79
+"26","green","Red Nucleus_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",1.33056822429304e-78
+"27","lightgreen","106230_REACTOME_Metabolism_of_proteins__Reactome_NCBI_Biosystems","PW_Lists",1.10515275500545e-73
+"28","black","pink_M10_Microglia(Type1)__HumanMeta","Brain",1.66143648656814e-69
+"29","green","blue_M2_Oligodendrocytes__HumanMeta","Brain",4.80673056438124e-66
+"30","skyblue","brown_M3_Astrocytes__HumanMeta","Brain",5.56179185998316e-65
+"31","darkseagreen4","Neuron_probable__Cahoy","Brain",1.46313534616028e-64
+"32","green","Red Nucleus_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",3.78908477836063e-59
+"33","yellow4","Cerebellar Cortex_globalMarker(top200)__HBA","HumanBrainRegions",5.985732010876e-55
+"34","coral1","brown_downAD_mitochondrion__Blalock_AD","Brain",7.30003866839749e-53
+"35","turquoise","Neuron_probable__Cahoy","Brain",9.06203900178069e-52
+"36","turquoise","spinal trigeminal nucleus_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",2.59007270164353e-50
+"37","lightgreen","530764_REACTOME_Disease__Reactome_NCBI_Biosystems","PW_Lists",5.56500003134492e-48
+"38","coral1","red_M11_Neuron__HumanMeta","Brain",2.1925674752705e-45
+"39","darkseagreen4","Autism_associated_module_M12__Voineagu","Brain",2.99269771113964e-45
+"40","lightyellow","cyan_M4_Mitochondria__HumanMeta","Brain",1.11621411502015e-44
+"41","lightgreen","105937_REACTOME_Gene_Expression__Reactome_NCBI_Biosystems","PW_Lists",2.58108968034979e-43
+"42","lightgreen","105969_REACTOME_Formation_of_the_ternary_complex,_and_subsequently,_the_43S_complex__Reactome_NCBI_Biosystems","PW_Lists",9.79457122017342e-42
+"43","lightgreen","105971_REACTOME_Translation_initiation_complex_formation__Reactome_NCBI_Biosystems","PW_Lists",4.17660484031954e-41
+"44","lightgreen","105972_REACTOME_Ribosomal_scanning_and_start_codon_recognition__Reactome_NCBI_Biosystems","PW_Lists",4.17660484031954e-41
+"45","lightgreen","105970_REACTOME_Activation_of_the_mRNA_upon_binding_of_the_cap-binding_complex_and_eIFs,_and_subsequent_binding_to_43S__Reactome_NCBI_Biosystems","PW_Lists",9.36078307041265e-41
+"46","green","Globus Pallidus_globalMarker(top200)__HBA","HumanBrainRegions",5.52795272052942e-40
+"47","coral1","DownWithAlzheimers_Liang__ADvsCT_inCA1","Brain",1.43081632137619e-38
+"48","lightyellow","cyan_M4_Mitochondria__MouseMeta","Brain",1.64692451606115e-38
+"49","lightyellow","303_KEGG_Oxidative_phosphorylation__Kegg_NCBI_Biosystems","PW_Lists",2.29076011513961e-38
+"50","lightyellow","82942_KEGG_Oxidative_phosphorylation__Kegg_NCBI_Biosystems","PW_Lists",2.29076011513961e-38
+"51","lightyellow","105921_REACTOME_Respiratory_electron_transport,_ATP_synthesis_by_chemiosmotic_coupling,_and_heat_production_by_uncoupling_proteins.__Reactome_NCBI_Biosystems","PW_Lists",2.63185435628702e-38
+"52","greenyellow","Substantia Nigra, pars reticulata_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",8.77574872429266e-38
+"53","lightyellow","198860_WikiPathways_Electron_Transport_Chain__Wiki_Pathways_NCBI_Biosystems","PW_Lists",3.06356538436338e-37
+"54","lightyellow","6209_mito_oxidative_phosph_pad_196__Palazzolo_and_Wang","PW_Lists",4.15795235491424e-37
+"55","green","Emboliform Nucleus_localMarker(top200)_IN_Cerebellar Nucleus__HBA","HumanBrainRegions",6.98214076797248e-36
+"56","skyblue","central glial substance_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",1.72467908649161e-34
+"57","green","turquoise_M9_Oligodendrocyte__CTX","Brain",2.07721137495975e-34
+"58","lightgreen","upWithABeta_MGactivation_GSE772__MicrogialMarkers","Brain",5.03903538810072e-34
+"59","green","Ventral Thalamus_globalMarker(top200)__HBA","HumanBrainRegions",9.05183645564631e-34
+"60","plum","blue_M2_Oligodendrocytes__HumanMeta","Brain",2.53514224088009e-33
+"61","lightcyan","magenta_M8_Microglia(Type2)__HumanMeta","Brain",7.72926347958081e-33
+"62","turquoise","medial parabrachial nucleus_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",1.07166179948361e-31
+"63","lightyellow","83098_KEGG_Parkinson's_disease__Kegg_NCBI_Biosystems","PW_Lists",1.29395017973935e-31
+"64","skyblue","brown_M15_Astrocyte__CTX","Brain",2.93165977797214e-31
+"65","lightcoral","187103_REACTOME_Interferon_Signaling__Reactome_NCBI_Biosystems","PW_Lists",3.47493010817127e-31
+"66","lightyellow","160962_REACTOME_Respiratory_electron_transport__Reactome_NCBI_Biosystems","PW_Lists",5.81127911419916e-31
+"67","lightyellow","6201_mito_db_pad_2664__Palazzolo_and_Wang","PW_Lists",1.36881072856254e-30
+"68","lightyellow","477137_REACTOME_The_citric_acid_(TCA)_cycle_and_respiratory_electron_transport__Reactome_NCBI_Biosystems","PW_Lists",2.32370192707031e-30
+"69","skyblue","Astrocyte_probable__Cahoy","Brain",4.80374099410176e-30
+"70","green","tan_noChangeAD_oligo_plasmaMembrane__Blalock_AD","Brain",2.56031677200205e-29
+"71","black","Substantia Nigra, pars reticulata_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",4.76741589756961e-29
+"72","darkslateblue","brown_M3_Astrocytes__HumanMeta","Brain",7.17911198071342e-29
+"73","darkseagreen4","Neuron_definite__Cahoy","Brain",2.49988022449465e-28
+"74","greenyellow","Substantia Nigra, pars reticulata_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",3.35984806998141e-28
+"75","lightyellow","512_KEGG_Huntington's_disease__Kegg_NCBI_Biosystems","PW_Lists",1.23409690037281e-27
+"76","lightyellow","83100_KEGG_Huntington's_disease__Kegg_NCBI_Biosystems","PW_Lists",1.23409690037281e-27
+"77","lightcoral","106386_REACTOME_Immune_System__Reactome_NCBI_Biosystems","PW_Lists",2.5257591753848e-27
+"78","green","Oligodendrocyte_probable__Cahoy","Brain",2.80316903721784e-27
+"79","turquoise","Neuron_definite__Cahoy","Brain",1.834522961443e-26
+"80","antiquewhite4","black_noChangeAD_heatShockProteinActivity__Blalock_AD","Brain",2.35502850654893e-26
+"81","darkseagreen4","Dentate Nucleus_localMarker(top200)_IN_Cerebellar Nucleus__HBA","HumanBrainRegions",2.43967598691671e-26
+"82","darkred","Head of Caudate Nucleus_localMarker(top200)_IN_Striatum__HBA","HumanBrainRegions",3.39439637625264e-26
+"83","lightcoral","principal sensory nucleus of trigeminal nerve_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",3.51514117418123e-26
+"84","darkseagreen4","trochlear nucleus_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",4.75386788122668e-26
+"85","darkseagreen4","green_M5_Mitochondria__HumanMeta","Brain",1.67697204275645e-25
+"86","turquoise","Annotated_genes_bound_by_Suz12_(Table_S8)__Lee","StemCells",1.86580988382218e-25
+"87","lightcoral","366171_REACTOME_Cytokine_Signaling_in_Immune_system__Reactome_NCBI_Biosystems","PW_Lists",2.05569817752819e-25
+"88","lightyellow","509_KEGG_Alzheimer's_disease__Kegg_NCBI_Biosystems","PW_Lists",1.08400029285997e-24
+"89","lightyellow","83097_KEGG_Alzheimer's_disease__Kegg_NCBI_Biosystems","PW_Lists",1.08400029285997e-24
+"90","yellow4","turquoise_Cerebellum__HumanChimp","Brain",3.47853432762116e-24
+"91","green","Putamen_localMarker(top200)_IN_Striatum__HBA","HumanBrainRegions",5.02292126746897e-24
+"92","lightcoral","187104_REACTOME_Interferon_alphabeta_signaling__Reactome_NCBI_Biosystems","PW_Lists",2.97511048655596e-23
+"93","coral1","Annotated_genes_bound_by_RNA_polymerase_II_(Table_S2)__Lee","StemCells",3.41784521719219e-23
+"94","greenyellow","pink_M10_Microglia(Type1)__HumanMeta","Brain",8.96818187286946e-23
+"95","darkseagreen4","Autism_differential_expression_across_at_least_one_comparison__Voineagu","Brain",1.20874216297027e-22
+"96","green","nucleus subceruleus_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",1.46217616032982e-22
+"97","coral1","DownWithAlzheimers_Blalock__ADvsCT_inCA1","Brain",1.70390909112721e-22
+"98","black","Substantia Nigra, pars reticulata_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",2.83842887158316e-22
+"99","turquoise","Polycomb_genes_(PGSTs)_repressed_by_SCs_(Table_S9)__Lee","StemCells",1.37450311815446e-21
+"100","lightgreen","midnightblue_M2_Ribosome__CTX","Brain",3.00258811091558e-21
+"101","lightyellow","6205_mito_inner_membrane_pad_299__Palazzolo_and_Wang","PW_Lists",6.29482097688543e-21
+"102","greenyellow","frontal part, inferior bank of gyrus_localMarker(top200)_IN_Cingulate Gyrus__HBA","HumanBrainRegions",4.56768006037391e-20
+"103","green","Paravermis_localMarker(top200)_IN_Cerebellar Cortex__HBA","HumanBrainRegions",7.38653135016707e-20
+"104","lightyellow","198870_WikiPathways_Oxidative_phosphorylation__Wiki_Pathways_NCBI_Biosystems","PW_Lists",7.94303186479046e-20
+"105","lightcyan1","Supraoptic Nucleus_localMarker(FC>2)_IN_Hypothalamus__HBA","HumanBrainRegions",1.06826728729712e-19
+"106","lightgreen","22556411_tanese_interactome_cytoplasm_329__PMID_22556411_Culver_2012","PW_Lists",7.01722698185012e-19
+"107","greenyellow","Lateral group of Nuclei, Dorsal Division_localMarker(top200)_IN_Dorthal Thalamus__HBA","HumanBrainRegions",9.56274903062985e-19
+"108","darkolivegreen4","Lymphcytes_genesCorrelatedAcrossIndividuals__Whitney","Blood",3.30225083025734e-18
+"109","darkslateblue","central glial substance_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",6.15913212393223e-18
+"110","darkred","Myelencephalon_globalMarker(top200)__HBA","HumanBrainRegions",8.0567260371344e-18
+"111","darkseagreen4","purple_downAD_synapticTransmission__Blalock_AD","Brain",8.15016662756076e-18
+"112","darkslateblue","Astrocyte_probable__Cahoy","Brain",1.03569759275783e-17
+"113","lightgreen","RedBloodCell__Kabanova","Blood",1.28206317980618e-17
+"114","lightcyan","orange_M5_Microglia(Type2)__CTX","Brain",1.44861374245078e-17
+"115","green","gigantocellular group_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",2.04682658224332e-17
+"116","turquoise","central gray substance of midbrain_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",2.29240312870944e-17
+"117","black","Lateral group of Nuclei, Dorsal Division_localMarker(top200)_IN_Dorthal Thalamus__HBA","HumanBrainRegions",2.49238834436062e-17
+"118","green","White Matter_globalMarker(top200)__HBA","HumanBrainRegions",2.66619380700367e-17
+"119","turquoise","Medial Group of Nuclei_localMarker(top200)_IN_Dorthal Thalamus__HBA","HumanBrainRegions",7.90711896187332e-17
+"120","yellow4","Hippocampal Formation_globalMarker(top200)__HBA","HumanBrainRegions",2.19690687711521e-16
+"121","black","Supraoptic Nucleus_localMarker(FC>2)_IN_Hypothalamus__HBA","HumanBrainRegions",6.01214855320666e-16
+"122","greenyellow","overexpressed_in_multipotent_primary_hematopoietic_SCs_(CD133+)__Cui","StemCells",1.04501991049582e-15
+"123","lightgreen","6012_postsynaptic_proteomics_pad_1097__Palazzolo_and_Wang","PW_Lists",1.15152976645396e-15
+"124","black","upInFrontalCortex__EarlyAD","Brain",1.19560190874812e-15
+"125","darkseagreen4","blue_downAD_metalIonTransport_glycoprotein__Blalock_AD","Brain",1.2513636226806e-15
+"126","lightyellow","salmon_M12_Ribosome__MouseMeta","Brain",1.39529244269694e-15
+"127","tan","DownWithAlzheimers_Liang__ADvsCT_inCA1","Brain",1.67453896131131e-15
+"128","turquoise","spinal trigeminal nucleus_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",1.83115042632635e-15
+"129","skyblue","Astrocyte_definite__Cahoy","Brain",2.61663917175384e-15
+"130","darkseagreen4","6001_synapsedb_pad_3552__Palazzolo_and_Wang","PW_Lists",2.82769734846337e-15
+"131","black","overexpressed_in_multipotent_primary_hematopoietic_SCs_(CD133+)__Cui","StemCells",2.90647596221691e-15
+"132","lightcoral","187106_REACTOME_Interferon_gamma_signaling__Reactome_NCBI_Biosystems","PW_Lists",3.06940948702514e-15
+"133","lightgreen","6011_postsynaptic_density_pad_1054__Palazzolo_and_Wang","PW_Lists",4.69616614096102e-15
+"134","lightsteelblue","106552_REACTOME_RNA_Polymerase_I_Promoter_Opening__Reactome_NCBI_Biosystems","PW_Lists",4.87839183433758e-15
+"135","coral1","6201_mito_db_pad_2664__Palazzolo_and_Wang","PW_Lists",5.33486919279428e-15
+"136","plum","gigantocellular group_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",5.91797619793866e-15
+"137","yellow4","Basal Pons_globalMarker(top200)__HBA","HumanBrainRegions",9.60925711360746e-15
+"138","turquoise","Insula_globalMarker(top200)__HBA","HumanBrainRegions",2.63719134950973e-14
+"139","black","RedBloodCell__Kabanova","Blood",5.54800836261883e-14
+"140","lightyellow","Mitochondria_Foster__MO","Brain",5.66287846148286e-14
+"141","tan","turquoise_M14_Nucleus__MouseMeta","Brain",8.91667073589246e-14
+"142","navajowhite2","Annotated_genes_bound_by_RNA_polymerase_II_(Table_S2)__Lee","StemCells",2.99771447210013e-13
+"143","darkseagreen4","22578497_synaptic_transcriptome_2338__PMID_22578497_Cajigas_2012","PW_Lists",3.23643883102125e-13
+"144","lightgreen","Recycling_endosome_TGN_Foster__MO","Brain",4.00285211216622e-13
+"145","lightcyan1","vestibular nuclei_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",5.29582237657485e-13
+"146","lightcoral","Supraoptic Nucleus_localMarker(FC>2)_IN_Hypothalamus__HBA","HumanBrainRegions",7.53985975613225e-13
+"147","plum","turquoise_M9_Oligodendrocyte__CTX","Brain",7.78394208527847e-13
+"148","darkseagreen4","facial motor nucleus_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",8.99397889000225e-13
+"149","tan","yellow_M18__CTX","Brain",1.06655698502136e-12
+"150","lightsteelblue","366238_REACTOME_Amyloids__Reactome_NCBI_Biosystems","PW_Lists",1.30489904450875e-12
+"151","green","Oligodendrocyte_definite__Cahoy","Brain",1.51329585403797e-12
+"152","tan","turquoise_M14_Nucleus__HumanMeta","Brain",1.72704346630167e-12
+"153","coral1","yellow_M18__CTX","Brain",1.8568305566423e-12
+"154","greenyellow","171867_KEGG_Staphylococcus_aureus_infection__Kegg_NCBI_Biosystems","PW_Lists",1.97823048118471e-12
+"155","greenyellow","172846_KEGG_Staphylococcus_aureus_infection__Kegg_NCBI_Biosystems","PW_Lists",1.97823048118471e-12
+"156","black","106386_REACTOME_Immune_System__Reactome_NCBI_Biosystems","PW_Lists",2.13163030529228e-12
+"157","lightyellow","honeydew_M7_Mitochondria__CTX","Brain",2.46583486471023e-12
+"158","lightsteelblue","534_KEGG_Systemic_lupus_erythematosus__Kegg_NCBI_Biosystems","PW_Lists",2.46821000463588e-12
+"159","lightsteelblue","83122_KEGG_Systemic_lupus_erythematosus__Kegg_NCBI_Biosystems","PW_Lists",2.46821000463588e-12
+"160","plum","Red Nucleus_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",2.68881153111964e-12
+"161","darkseagreen4","DownWithAlzheimers_Blalock__ADvsCT_inCA1","Brain",4.77428564539715e-12
+"162","darkred","Midbrain Raphe Nuclei_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",4.81852278017522e-12
+"163","lightcyan","upMGactivagtion_GSE1910__MicrogialMarkers","Brain",5.66131946961332e-12
+"164","lightsteelblue","205242_REACTOME_Meiotic_Recombination__Reactome_NCBI_Biosystems","PW_Lists",8.91682842114668e-12
+"165","lightsteelblue","106548_REACTOME_Packaging_Of_Telomere_Ends__Reactome_NCBI_Biosystems","PW_Lists",9.137744456712e-12
+"166","skyblue","brown_upAging_copperHomeostatisMT1__Lu_Aging","Brain",1.76255279938271e-11
+"167","lightsteelblue","106555_REACTOME_RNA_Polymerase_I_Chain_Elongation__Reactome_NCBI_Biosystems","PW_Lists",1.78875113331471e-11
+"168","lightgreen","TimeOfBloodDraw_genesCorrelatedAcrossIndividuals__Whitney","Blood",1.84623267223122e-11
+"169","green","Lateral hypothalamic area_localMarker(top200)_IN_Hypothalamus__HBA","HumanBrainRegions",1.97628847370547e-11
+"170","tan","Annotated_genes_bound_by_RNA_polymerase_II_(Table_S2)__Lee","StemCells",8.9481182678747e-11
+"171","turquoise","Developmental_signaling_proteins_bound_by_Suz12_(Table_S12)__Lee","StemCells",9.15611848034560e-11
+"172","turquoise","greenyellow_M6_GlutatmatergicSynapse__HumanMeta","Brain",9.60444919602477e-11
+"173","darkred","Midbrain Raphe Nuclei_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",1.01129022206705e-10
+"174","turquoise","locus ceruleus_localMarker(FC>2)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",1.07660695937833e-10
+"175","darkseagreen4","black_M1_PvalbInterneurons__HumanMeta","Brain",1.12681188235009e-10
+"176","lightyellow","6213_mito_disease_pad_171__Palazzolo_and_Wang","PW_Lists",1.13303021932001e-10
+"177","lightsteelblue","106551_REACTOME_RNA_Polymerase_I_Promoter_Clearance__Reactome_NCBI_Biosystems","PW_Lists",1.18399635119064e-10
+"178","plum","Ventral Thalamus_globalMarker(top200)__HBA","HumanBrainRegions",1.51655394006249e-10
+"179","lightcoral","198918_WikiPathways_Type_II_interferon_signaling_(IFNG)__Wiki_Pathways_NCBI_Biosystems","PW_Lists",1.52114152549986e-10
+"180","lightsteelblue","106550_REACTOME_RNA_Polymerase_I_Transcription__Reactome_NCBI_Biosystems","PW_Lists",2.10092546958756e-10
+"181","coral2","turquoise_M14_Nucleus__MouseMeta","Brain",2.29847441379765e-10
+"182","green","turquoise_upAging_oligo__Lu_Aging","Brain",2.36194441512662e-10
+"183","darkolivegreen4","106413_REACTOME_Immunoregulatory_interactions_between_a_Lymphoid_and_a_non-Lymphoid_cell__Reactome_NCBI_Biosystems","PW_Lists",2.66765147763757e-10
+"184","brown4","black_noChangeAD_heatShockProteinActivity__Blalock_AD","Brain",4.10959374516709e-10
+"185","green","lateral bank of gyrus_localMarker(top200)_IN_Parahippocampal Gyrus__HBA","HumanBrainRegions",4.19480187965502e-10
+"186","coral2","Annotated_genes_bound_by_RNA_polymerase_II_(Table_S2)__Lee","StemCells",4.7836520479196e-10
+"187","black","144028_KEGG_Leishmaniasis__Kegg_NCBI_Biosystems","PW_Lists",4.97297753739158e-10
+"188","black","144181_KEGG_Leishmaniasis__Kegg_NCBI_Biosystems","PW_Lists",4.97297753739158e-10
+"189","yellow4","arcuate nucleus of medulla_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",5.14201365951183e-10
+"190","floralwhite","Neuron_probable__Cahoy","Brain",6.81032191195068e-10
+"191","lightcoral","principal sensory nucleus of trigeminal nerve_localMarker(FC>2)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",8.16284870530337e-10
+"192","green","black_WhiteMatter__HumanChimp","Brain",8.30788026346706e-10
+"193","turquoise","106513_REACTOME_Neuronal_System__Reactome_NCBI_Biosystems","PW_Lists",9.37263956847937e-10
+"194","darkseagreen4","pink_downAD_synapticTransmission__Blalock_AD","Brain",9.70312198686618e-10
+"195","darkseagreen4","lateral medullary reticular group_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",1.01705694392184e-09
+"196","lightcoral","orange_M5_Microglia(Type2)__CTX","Brain",1.07550741005846e-09
+"197","plum","White Matter_globalMarker(top200)__HBA","HumanBrainRegions",1.19536992727024e-09
+"198","darkseagreen4","brown_Cortex__HumanChimp","Brain",1.42967095415816e-09
+"199","black","Supraoptic Nucleus_localMarker(top200)_IN_Hypothalamus__HBA","HumanBrainRegions",1.57886425043973e-09
+"200","turquoise","22578497_synaptic_transcriptome_2338__PMID_22578497_Cajigas_2012","PW_Lists",1.70983953877201e-09
+"201","darkseagreen4","Cerebral Cortex_globalMarker(top200)__HBA","HumanBrainRegions",1.81657498406018e-09
+"202","lightsteelblue","161049_REACTOME_Nucleosome_assembly__Reactome_NCBI_Biosystems","PW_Lists",1.81949027464182e-09
+"203","lightsteelblue","161050_REACTOME_Deposition_of_New_CENPA-containing_Nucleosomes_at_the_Centromere__Reactome_NCBI_Biosystems","PW_Lists",1.81949027464182e-09
+"204","turquoise","Amygdala_globalMarker(top200)__HBA","HumanBrainRegions",1.85064786334305e-09
+"205","lightyellow","6207_mito_housekeeping_pad_173__Palazzolo_and_Wang","PW_Lists",2.21196146028076e-09
+"206","darkmagenta","167190_KEGG_Protein_processing_in_endoplasmic_reticulum__Kegg_NCBI_Biosystems","PW_Lists",2.48081947603788e-09
+"207","darkmagenta","167325_KEGG_Protein_processing_in_endoplasmic_reticulum__Kegg_NCBI_Biosystems","PW_Lists",2.48081947603788e-09
+"208","greenyellow","213743_KEGG_Tuberculosis__Kegg_NCBI_Biosystems","PW_Lists",2.50920056262007e-09
+"209","greenyellow","213780_KEGG_Tuberculosis__Kegg_NCBI_Biosystems","PW_Lists",2.50920056262007e-09
+"210","black","213743_KEGG_Tuberculosis__Kegg_NCBI_Biosystems","PW_Lists",2.58417387863618e-09
+"211","black","213780_KEGG_Tuberculosis__Kegg_NCBI_Biosystems","PW_Lists",2.58417387863618e-09
+"212","lightyellow","413434_KEGG_Cytochrome_c_oxidase__Kegg_NCBI_Biosystems","PW_Lists",2.9100213543992e-09
+"213","lightyellow","468345_KEGG_Cytochrome_c_oxidase__Kegg_NCBI_Biosystems","PW_Lists",2.9100213543992e-09
+"214","lightpink4","Superior Olivary Complex_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",2.98135738530274e-09
+"215","yellow4","Neuron_probable__Cahoy","Brain",3.22652074199997e-09
+"216","darkolivegreen4","198862_WikiPathways_T_Cell_Receptor_Signaling_Pathway__Wiki_Pathways_NCBI_Biosystems","PW_Lists",4.09522619893052e-09
+"217","darkseagreen4","6012_postsynaptic_proteomics_pad_1097__Palazzolo_and_Wang","PW_Lists",4.81540284772532e-09
+"218","yellow4","arcuate nucleus of medulla_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",5.40903217551355e-09
+"219","coral1","6213_mito_disease_pad_171__Palazzolo_and_Wang","PW_Lists",5.51525290847098e-09
+"220","plum2","Astrocyte_probable__Cahoy","Brain",5.56009981682608e-09
+"221","darkseagreen4","6011_postsynaptic_density_pad_1054__Palazzolo_and_Wang","PW_Lists",5.63840482402945e-09
+"222","lightyellow","132956_KEGG_Metabolic_pathways__Kegg_NCBI_Biosystems","PW_Lists",5.69481752507212e-09
+"223","darkolivegreen4","537_KEGG_Primary_immunodeficiency__Kegg_NCBI_Biosystems","PW_Lists",6.01848168274081e-09
+"224","darkolivegreen4","83125_KEGG_Primary_immunodeficiency__Kegg_NCBI_Biosystems","PW_Lists",6.01848168274081e-09
+"225","mediumpurple3","cyan_M4_Mitochondria__MouseMeta","Brain",6.05353695264642e-09
+"226","turquoise","locus ceruleus_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",6.60450555294031e-09
+"227","lightpink4","106261_REACTOME_Muscle_contraction__Reactome_NCBI_Biosystems","PW_Lists",7.04123763343354e-09
+"228","darkslateblue","brown_M15_Astrocyte__CTX","Brain",7.05943146141684e-09
+"229","turquoise","Nucleus Accumbens_localMarker(top200)_IN_Striatum__HBA","HumanBrainRegions",7.21248399147477e-09
+"230","grey60","Neuron_probable__Cahoy","Brain",7.33310416162157e-09
+"231","plum","nucleus subceruleus_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",7.92838173543325e-09
+"232","skyblue","red_ACCandCaudate__HumanChimp","Brain",8.59300583993419e-09
+"233","lightsteelblue","477133_REACTOME_Meiosis__Reactome_NCBI_Biosystems","PW_Lists",9.8687000957934e-09
+"234","turquoise","medial parabrachial nucleus_localMarker(FC>2)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",1.04139824197008e-08
+"235","darkolivegreen4","138055_Pathway_Interaction_Database_TCR_signaling_in_naive_CD8+_T_cells__Pathway_Interaction_Database_NCBI_Biosystems","PW_Lists",1.35430964044578e-08
+"236","yellow4","Tail of Caudate Nucleus_localMarker(top200)_IN_Striatum__HBA","HumanBrainRegions",1.52140323486687e-08
+"237","greenyellow","IFN-gamma__ImmunePathway","Immune",1.54582624373296e-08
+"238","darkseagreen4","106513_REACTOME_Neuronal_System__Reactome_NCBI_Biosystems","PW_Lists",1.58575303909585e-08
+"239","darkseagreen4","blue_downAging_mitochondria_synapse__Lu_Aging","Brain",1.70286479848216e-08
+"240","lightcoral","217150_KEGG_Influenza_A__Kegg_NCBI_Biosystems","PW_Lists",2.12015647352027e-08
+"241","lightcoral","217173_KEGG_Influenza_A__Kegg_NCBI_Biosystems","PW_Lists",2.12015647352027e-08
+"242","green","central medullary reticular group_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",2.17373534310505e-08
+"243","green","Lateral group of Nuclei, Ventral division_localMarker(top200)_IN_Dorthal Thalamus__HBA","HumanBrainRegions",2.30012500052083e-08
+"244","darkslateblue","UpWithAlzheimers_Blalock__ADvsCT_inCA1","Brain",2.3838039641771e-08
+"245","plum","Oligodendrocyte_probable__Cahoy","Brain",2.45627613257647e-08
+"246","turquoise","Dentate Nucleus_localMarker(top200)_IN_Cerebellar Nucleus__HBA","HumanBrainRegions",2.51003402391348e-08
+"247","lightpink4","magenta_M8_Microglia(Type2)__HumanMeta","Brain",2.5318178881097e-08
+"248","lightsteelblue","477134_REACTOME_Meiotic_Synapsis__Reactome_NCBI_Biosystems","PW_Lists",2.95781537096784e-08
+"249","coral1","blue_Cortex__HumanChimp","Brain",2.97921345319266e-08
+"250","lightsteelblue","tan_M12_Hypoxia__CTX","Brain",3.64970715128085e-08
+"251","darkolivegreen4","137922_Pathway_Interaction_Database_IL12-mediated_signaling_events__Pathway_Interaction_Database_NCBI_Biosystems","PW_Lists",3.68416014361739e-08
+"252","lightyellow","477135_REACTOME_Metabolism__Reactome_NCBI_Biosystems","PW_Lists",3.74534237799809e-08
+"253","lightgreen","salmon_M12_Ribosome__MouseMeta","Brain",4.18747333413142e-08
+"254","turquoise","Tail of Caudate Nucleus_localMarker(top200)_IN_Striatum__HBA","HumanBrainRegions",4.31947728914392e-08
+"255","darkturquoise","Annotated_genes_bound_by_RNA_polymerase_II_(Table_S2)__Lee","StemCells",4.61166601573486e-08
+"256","ivory","vestibular nuclei_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",5.19564458780552e-08
+"257","darkolivegreen4","106417_REACTOME_Generation_of_second_messenger_molecules__Reactome_NCBI_Biosystems","PW_Lists",5.23728935825467e-08
+"258","lightcoral","IFN alpha/beta__ImmunePathway","Immune",5.24670094656844e-08
+"259","lightcyan","upActivationMicroglia_3treatments_Thomas__MicrogialMarkers","Brain",6.09538650581591e-08
+"260","plum","Red Nucleus_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",6.27906302313996e-08
+"261","lightcoral","377865_KEGG_Herpes_simplex_infection__Kegg_NCBI_Biosystems","PW_Lists",6.57456518888669e-08
+"262","lightcoral","377873_KEGG_Herpes_simplex_infection__Kegg_NCBI_Biosystems","PW_Lists",6.57456518888669e-08
+"263","greenyellow","Supraoptic Nucleus_localMarker(FC>2)_IN_Hypothalamus__HBA","HumanBrainRegions",7.36681882505219e-08
+"264","lightpink4","161025_REACTOME_Smooth_Muscle_Contraction__Reactome_NCBI_Biosystems","PW_Lists",7.69333472655104e-08
+"265","darkseagreen4","trochlear nucleus_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",7.71349737630127e-08
+"266","green","Superior Olivary Complex_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",7.93631427802079e-08
+"267","darkseagreen4","Parietal Lobe_localMarker(top200)_IN_Cerebral Cortex__HBA","HumanBrainRegions",8.56117534167637e-08
+"268","turquoise","6001_synapsedb_pad_3552__Palazzolo_and_Wang","PW_Lists",8.84483125460178e-08
+"269","sienna3","Oligodendrocyte_probable__Cahoy","Brain",8.92555923743267e-08
+"270","turquoise","Substantia Nigra, pars compacta_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",9.08299510151969e-08
+"271","darkseagreen4","abducens nucleus_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",9.31801181849155e-08
+"272","darkseagreen4","6002_synapsedb_internet_2488__Palazzolo_and_Wang","PW_Lists",9.47756829490653e-08
+"273","turquoise","Temporal Lobe_localMarker(top200)_IN_Cerebral Cortex__HBA","HumanBrainRegions",9.86857524895166e-08
+"274","greenyellow","Neutrophils_genesCorrelatedAcrossIndividuals__Whitney","Blood",1.00867418055478e-07
+"275","turquoise","Substantia Innominata_localMarker(top200)_IN_Basal Forebrain__HBA","HumanBrainRegions",1.21022652253972e-07
+"276","turquoise","Posterior Hypothalamic Area_localMarker(top200)_IN_Hypothalamus__HBA","HumanBrainRegions",1.27531498450217e-07
+"277","lightsteelblue","106540_REACTOME_Telomere_Maintenance__Reactome_NCBI_Biosystems","PW_Lists",1.37006241477942e-07
+"278","coral1","6205_mito_inner_membrane_pad_299__Palazzolo_and_Wang","PW_Lists",1.87603898534758e-07
+"279","greenyellow","IL-13__ImmunePathway","Immune",1.91298768310044e-07
+"280","black","193096_KEGG_Osteoclast_differentiation__Kegg_NCBI_Biosystems","PW_Lists",2.02389329957632e-07
+"281","black","193147_KEGG_Osteoclast_differentiation__Kegg_NCBI_Biosystems","PW_Lists",2.02389329957632e-07
+"282","darkolivegreen4","491_KEGG_T_cell_receptor_signaling_pathway__Kegg_NCBI_Biosystems","PW_Lists",2.05829689271061e-07
+"283","darkolivegreen4","83080_KEGG_T_cell_receptor_signaling_pathway__Kegg_NCBI_Biosystems","PW_Lists",2.05829689271061e-07
+"284","lavenderblush3","brown_M3_Astrocytes__HumanMeta","Brain",2.31395804233068e-07
+"285","navajowhite2","turquoise_M14_Nucleus__HumanMeta","Brain",2.66006261141639e-07
+"286","greenyellow","purple_M4_Microglia(Type1)__CTX","Brain",3.15487929410209e-07
+"287","darkseagreen4","6013_synapse_textbook_pad_138__Palazzolo_and_Wang","PW_Lists",3.31135962920018e-07
+"288","tan","blue_M16_Neuron__CTX","Brain",3.45656408616438e-07
+"289","darkolivegreen4","138018_Pathway_Interaction_Database_Downstream_signaling_in_naive_CD8+_T_cells__Pathway_Interaction_Database_NCBI_Biosystems","PW_Lists",3.51852547558947e-07
+"290","lavenderblush3","central glial substance_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",4.22907108171072e-07
+"291","darkseagreen4","Oculomotor Nuclear Complex_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",4.71172492500231e-07
+"292","lightpink4","mutationMouseOrHumanOrBoth__JAXdiseaseGene","Brain",4.75138057953387e-07
+"293","lightsteelblue","magenta_M8_Microglia(Type2)__HumanMeta","Brain",5.3077597072998e-07
+"294","darkseagreen4","Subthalamus_globalMarker(top200)__HBA","HumanBrainRegions",5.42153446410716e-07
+"295","lightcyan","IL-9__ImmunePathway","Immune",5.58655743157044e-07
+"296","lightsteelblue","160948_REACTOME_RNA_Polymerase_I,_RNA_Polymerase_III,_and_Mitochondrial_Transcription__Reactome_NCBI_Biosystems","PW_Lists",6.56145626697934e-07
+"297","darkolivegreen4","106386_REACTOME_Immune_System__Reactome_NCBI_Biosystems","PW_Lists",7.99706271756218e-07
+"298","greenyellow","532_KEGG_Asthma__Kegg_NCBI_Biosystems","PW_Lists",8.19667168401297e-07
+"299","greenyellow","83120_KEGG_Asthma__Kegg_NCBI_Biosystems","PW_Lists",8.19667168401297e-07
+"300","turquoise","Preoptic Region_localMarker(top200)_IN_Hypothalamus__HBA","HumanBrainRegions",8.51314292636508e-07
+"301","tan","red_M11_Neuron__HumanMeta","Brain",9.00088962828016e-07
+"302","turquoise","lateral parabrachial nucleus_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",9.15850096869935e-07
+"303","darkseagreen4","PresynapticCompartmentProteins_Morciano__MO","Brain",9.4562346363171e-07
+"304","yellow4","Annotated_genes_bound_by_Suz12_(Table_S8)__Lee","StemCells",1.07770563688869e-06
+"305","darkmagenta","Annotated_genes_bound_by_RNA_polymerase_II_(Table_S2)__Lee","StemCells",1.07949566195743e-06
+"306","turquoise","106516_REACTOME_Transmission_across_Chemical_Synapses__Reactome_NCBI_Biosystems","PW_Lists",1.14361062579951e-06
+"307","lightsteelblue","6317_pad_bdnf_db_1127__Palazzolo_and_Wang","PW_Lists",1.16909919360697e-06
+"308","navajowhite2","Oligodendrocyte_probable__Cahoy","Brain",1.2458027286989e-06
+"309","lightcyan1","magenta_M8_Microglia(Type2)__HumanMeta","Brain",1.28807645095767e-06
+"310","darkolivegreen4","CTLA4__ImmunePathway","Immune",1.36062249210879e-06
+"311","darkolivegreen4","366160_REACTOME_Adaptive_Immune_System__Reactome_NCBI_Biosystems","PW_Lists",1.37738499355113e-06
+"312","turquoise","inferior olivary complex_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",1.53959968874769e-06
+"313","darkred","Head of Caudate Nucleus_localMarker(FC>2)_IN_Striatum__HBA","HumanBrainRegions",1.56939402882684e-06
+"314","lightpink4","478_KEGG_Focal_adhesion__Kegg_NCBI_Biosystems","PW_Lists",1.59798341895513e-06
+"315","lightpink4","83067_KEGG_Focal_adhesion__Kegg_NCBI_Biosystems","PW_Lists",1.59798341895513e-06
+"316","coral1","6209_mito_oxidative_phosph_pad_196__Palazzolo_and_Wang","PW_Lists",1.6155373940446e-06
+"317","coral1","105983_REACTOME_HIV_Infection__Reactome_NCBI_Biosystems","PW_Lists",1.63130425366409e-06
+"318","bisque4","blue_M2_Oligodendrocytes__HumanMeta","Brain",1.706144331577e-06
+"319","darkseagreen4","Basal Pons_globalMarker(top200)__HBA","HumanBrainRegions",1.79730385000976e-06
+"320","skyblue","UpWithAlzheimers_Blalock__ADvsCT_inCA1","Brain",1.81470431219543e-06
+"321","darkseagreen4","Posterior Hypothalamic Area_localMarker(top200)_IN_Hypothalamus__HBA","HumanBrainRegions",1.82473356673873e-06
+"322","lightgreen","ER_Golgi_vesicles_Foster__MO","Brain",1.92551142538722e-06
+"323","darkseagreen4","Neuron__ABA","Brain",1.99037045336688e-06
+"324","lightyellow","Annotated_genes_bound_by_RNA_polymerase_II_(Table_S2)__Lee","StemCells",2.04911029161176e-06
+"325","darkolivegreen4","TCR signaling__ImmunePathway","Immune",2.29149641370367e-06
+"326","green","cuneate nucleus_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",2.95026276627545e-06
+"327","yellow4","lateral medullary reticular group_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",2.96590390638096e-06
+"328","lightcoral","overexpressed_in_multipotent_primary_hematopoietic_SCs_(CD133+)__Cui","StemCells",3.03138717039621e-06
+"329","lightpink4","479_KEGG_ECM-receptor_interaction__Kegg_NCBI_Biosystems","PW_Lists",3.04395177450357e-06
+"330","lightpink4","83068_KEGG_ECM-receptor_interaction__Kegg_NCBI_Biosystems","PW_Lists",3.04395177450357e-06
+"331","darkseagreen4","greenyellow_M6_GlutatmatergicSynapse__MouseMeta","Brain",3.31489990443579e-06
+"332","lightyellow","green_M5_Mitochondria__MouseMeta","Brain",3.47003254178147e-06
+"333","black","orange_M5_Microglia(Type2)__CTX","Brain",3.58877839571178e-06
+"334","turquoise","6002_synapsedb_internet_2488__Palazzolo_and_Wang","PW_Lists",3.82654890842863e-06
+"335","green","Fastigial Nucleus_localMarker(top200)_IN_Cerebellar Nucleus__HBA","HumanBrainRegions",3.84424070664138e-06
+"336","lightcyan","366171_REACTOME_Cytokine_Signaling_in_Immune_system__Reactome_NCBI_Biosystems","PW_Lists",3.97777887147854e-06
+"337","lightyellow","413409_KEGG_NADH_dehydrogenase_(ubiquinone)_1_beta_subcomplex__Kegg_NCBI_Biosystems","PW_Lists",4.35395923735552e-06
+"338","darkslateblue","Supraoptic Nucleus_localMarker(FC>2)_IN_Hypothalamus__HBA","HumanBrainRegions",4.44201538826775e-06
+"339","yellow4","Pontine Reticular Formation_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",4.93431996098216e-06
+"340","lightcyan","152657_KEGG_Malaria__Kegg_NCBI_Biosystems","PW_Lists",5.00877679322409e-06
+"341","lightcyan","152665_KEGG_Malaria__Kegg_NCBI_Biosystems","PW_Lists",5.00877679322409e-06
+"342","turquoise","Hippocampal Formation_globalMarker(top200)__HBA","HumanBrainRegions",5.0227122118311e-06
+"343","lightpink4","198795_WikiPathways_Focal_Adhesion__Wiki_Pathways_NCBI_Biosystems","PW_Lists",5.58386952177671e-06
+"344","darkolivegreen4","106414_REACTOME_TCR_signaling__Reactome_NCBI_Biosystems","PW_Lists",7.73540410660003e-06
+"345","darkseagreen4","6006_presynapse_brain_pad_59__Palazzolo_and_Wang","PW_Lists",8.10705015474586e-06
+"346","darkturquoise","105938_REACTOME_Generic_Transcription_Pathway__Reactome_NCBI_Biosystems","PW_Lists",8.21540052710853e-06
+"347","lightyellow","DownWithAlzheimers_Blalock__ADvsCT_inCA1","Brain",9.36704617495246e-06
+"348","turquoise","central gray substance of midbrain_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",9.53014391012862e-06
+"349","turquoise","globus pallidus, external segment_localMarker(top200)_IN_Globus Pallidus__HBA","HumanBrainRegions",9.74073818375474e-06
+"350","greenyellow","153859_KEGG_Phagosome__Kegg_NCBI_Biosystems","PW_Lists",1.07855680046497e-05
+"351","greenyellow","153910_KEGG_Phagosome__Kegg_NCBI_Biosystems","PW_Lists",1.07855680046497e-05
+"352","greenyellow","106416_REACTOME_Translocation_of_ZAP-70_to_Immunological_synapse__Reactome_NCBI_Biosystems","PW_Lists",1.11915787183955e-05
+"353","lightpink4","bank of the cos_localMarker(top200)_IN_Parahippocampal Gyrus__HBA","HumanBrainRegions",1.14170742969237e-05
+"354","lightcoral","530760_REACTOME_Antiviral_mechanism_by_IFN-stimulated_genes__Reactome_NCBI_Biosystems","PW_Lists",1.21585118812266e-05
+"355","lightcoral","530761_REACTOME_ISG15_antiviral_mechanism__Reactome_NCBI_Biosystems","PW_Lists",1.21585118812266e-05
+"356","black","frontal part, inferior bank of gyrus_localMarker(top200)_IN_Cingulate Gyrus__HBA","HumanBrainRegions",1.23618798015811e-05
+"357","darkolivegreen4","106416_REACTOME_Translocation_of_ZAP-70_to_Immunological_synapse__Reactome_NCBI_Biosystems","PW_Lists",1.26630296722411e-05
+"358","turquoise","Substantia Nigra, pars compacta_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",1.26702657865592e-05
+"359","coral2","blue_M16_Neuron__CTX","Brain",1.46243550835171e-05
+"360","plum","Globus Pallidus_globalMarker(top200)__HBA","HumanBrainRegions",1.72456719430624e-05
+"361","tan","Oligodendrocyte_probable__Cahoy","Brain",1.99426478247201e-05
+"362","greenyellow","CTLA4__ImmunePathway","Immune",2.31627813903856e-05
+"363","darkseagreen4","PostSynapticDensity_proteins__Bayes","Brain",2.34578469372045e-05
+"364","green","Oligodendrocyte__ABA","Brain",2.39747298665132e-05
+"365","black","198770_WikiPathways_IL-5_Signaling_Pathway__Wiki_Pathways_NCBI_Biosystems","PW_Lists",2.42465988581777e-05
+"366","darkred","Zona Incerta_localMarker(top200)_IN_Ventral Thalamus__HBA","HumanBrainRegions",2.5130391486294e-05
+"367","firebrick4","blue_M2_Oligodendrocytes__HumanMeta","Brain",2.51485306230005e-05
+"368","greenyellow","B7.1 / B7.2 (CD80  CD86) CD28__ImmunePathway","Immune",2.58466825281679e-05
+"369","black","198909_WikiPathways_B_Cell_Receptor_Signaling_Pathway__Wiki_Pathways_NCBI_Biosystems","PW_Lists",2.68845253848357e-05
+"370","black","purple_M4_Microglia(Type1)__CTX","Brain",2.83088781482157e-05
+"371","coral1","Mitochondria_Foster__MO","Brain",2.94253438508785e-05
+"372","greenyellow","106386_REACTOME_Immune_System__Reactome_NCBI_Biosystems","PW_Lists",2.99449185225574e-05
+"373","greenyellow","106415_REACTOME_Phosphorylation_of_CD3_and_TCR_zeta_chains__Reactome_NCBI_Biosystems","PW_Lists",3.19633698796664e-05
+"374","lightpink4","central glial substance_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",3.30663709225453e-05
+"375","darkmagenta","Cytoplasm_Foster__MO","Brain",3.36147960197508e-05
+"376","turquoise","dorsal motor nucleus of the vagus_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",3.37953029701565e-05
+"377","turquoise","inferior olivary complex_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",3.37953029701565e-05
+"378","darkmagenta","Recycling_endosome_TGN_Foster__MO","Brain",3.70011021249403e-05
+"379","sienna3","blue_M2_Oligodendrocytes__HumanMeta","Brain",3.83318685536226e-05
+"380","darkseagreen4","Substantia Nigra, pars compacta_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",3.83361929823391e-05
+"381","coral1","303_KEGG_Oxidative_phosphorylation__Kegg_NCBI_Biosystems","PW_Lists",3.93484088727157e-05
+"382","coral1","82942_KEGG_Oxidative_phosphorylation__Kegg_NCBI_Biosystems","PW_Lists",3.93484088727157e-05
+"383","coral1","blue_M16_Neuron__CTX","Brain",4.22942095441419e-05
+"384","lightcyan","IL-10__ImmunePathway","Immune",4.48861442076051e-05
+"385","turquoise","ventral tegmental area_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",4.5165692352375e-05
+"386","black","171867_KEGG_Staphylococcus_aureus_infection__Kegg_NCBI_Biosystems","PW_Lists",4.52221168601315e-05
+"387","black","172846_KEGG_Staphylococcus_aureus_infection__Kegg_NCBI_Biosystems","PW_Lists",4.52221168601315e-05
+"388","lightyellow","93344_KEGG_Cardiac_muscle_contraction__Kegg_NCBI_Biosystems","PW_Lists",5.10900500529955e-05
+"389","lightyellow","93992_KEGG_Cardiac_muscle_contraction__Kegg_NCBI_Biosystems","PW_Lists",5.10900500529955e-05
+"390","greenyellow","533_KEGG_Autoimmune_thyroid_disease__Kegg_NCBI_Biosystems","PW_Lists",5.15674910772446e-05
+"391","greenyellow","83121_KEGG_Autoimmune_thyroid_disease__Kegg_NCBI_Biosystems","PW_Lists",5.15674910772446e-05
+"392","darkolivegreen4","119557_REACTOME_PD-1_signaling__Reactome_NCBI_Biosystems","PW_Lists",5.700137829708e-05
+"393","palevioletred3","mutationMouseOrHumanOrBoth__JAXdiseaseGene","Brain",5.90243649085064e-05
+"394","greenyellow","upInHippocampus__EarlyAD","Brain",6.20116766023136e-05
+"395","lightcyan","NF-kappaB pathway__ImmunePathway","Immune",6.24593118881255e-05
+"396","orangered3","green_M5_Mitochondria__HumanMeta","Brain",6.27761123079641e-05
+"397","plum2","Astrocyte_definite__Cahoy","Brain",6.46694883053732e-05
+"398","lightcyan","138000_Pathway_Interaction_Database_IL23-mediated_signaling_events__Pathway_Interaction_Database_NCBI_Biosystems","PW_Lists",6.75531576690708e-05
+"399","coral1","83098_KEGG_Parkinson's_disease__Kegg_NCBI_Biosystems","PW_Lists",7.52760332594721e-05
+"400","greenyellow","106418_REACTOME_Downstream_TCR_signaling__Reactome_NCBI_Biosystems","PW_Lists",7.8624524323113e-05
+"401","greenyellow","144028_KEGG_Leishmaniasis__Kegg_NCBI_Biosystems","PW_Lists",8.04013420308891e-05
+"402","greenyellow","144181_KEGG_Leishmaniasis__Kegg_NCBI_Biosystems","PW_Lists",8.04013420308891e-05
+"403","greenyellow","187106_REACTOME_Interferon_gamma_signaling__Reactome_NCBI_Biosystems","PW_Lists",8.04013420308891e-05
+"404","greenyellow","535_KEGG_Allograft_rejection__Kegg_NCBI_Biosystems","PW_Lists",8.10253252643571e-05
+"405","greenyellow","83123_KEGG_Allograft_rejection__Kegg_NCBI_Biosystems","PW_Lists",8.10253252643571e-05
+"406","greenyellow","Supraoptic Nucleus_localMarker(top200)_IN_Hypothalamus__HBA","HumanBrainRegions",8.30018079394729e-05
+"407","sienna3","198809_WikiPathways_Cholesterol_Biosynthesis__Wiki_Pathways_NCBI_Biosystems","PW_Lists",8.34773036265806e-05
+"408","lightpink4","mutationHuman__JAXdiseaseGene","Brain",8.50878025252461e-05
+"409","lightsteelblue","161048_REACTOME_Chromosome_Maintenance__Reactome_NCBI_Biosystems","PW_Lists",9.84892756286815e-05
+"410","greenyellow","128670_KEGG_Intestinal_immune_network_for_IgA_production__Kegg_NCBI_Biosystems","PW_Lists",9.8939347626785e-05
+"411","greenyellow","128760_KEGG_Intestinal_immune_network_for_IgA_production__Kegg_NCBI_Biosystems","PW_Lists",9.8939347626785e-05
+"412","turquoise","Mesencephalon_globalMarker(top200)__HBA","HumanBrainRegions",0.000103743622353957
+"413","sienna3","138629_BIOCYC_superpathway_of_cholesterol_biosynthesis__Biocyc_NCBI_Biosystems","PW_Lists",0.000107840573420424
+"414","darkseagreen4","6003_presynaptic_hippocampus_pad_149__Palazzolo_and_Wang","PW_Lists",0.000119433572610198
+"415","darkseagreen4","locus ceruleus_localMarker(FC>2)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",0.000119433572610198
+"416","lightcoral","187097_REACTOME_RIG-IMDA5_mediated_induction_of_IFN-alphabeta_pathways__Reactome_NCBI_Biosystems","PW_Lists",0.000124067318993561
+"417","greenyellow","119557_REACTOME_PD-1_signaling__Reactome_NCBI_Biosystems","PW_Lists",0.000124327376391967
+"418","darkturquoise","blue_M16_Neuron__CTX","Brain",0.000124744448874728
+"419","darkseagreen4","6009_postynaptic_mglur5_pad_50__Palazzolo_and_Wang","PW_Lists",0.000134640816508373
+"420","darkseagreen4","Substantia Nigra, pars compacta_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",0.000135318896056217
+"421","darkolivegreen4","489_KEGG_Hematopoietic_cell_lineage__Kegg_NCBI_Biosystems","PW_Lists",0.000138583319126092
+"422","darkolivegreen4","83078_KEGG_Hematopoietic_cell_lineage__Kegg_NCBI_Biosystems","PW_Lists",0.000138583319126092
+"423","darkseagreen4","subiculum_localMarker(top200)_IN_Hippocampal Formation__HBA","HumanBrainRegions",0.000140721794550987
+"424","greenyellow","200269_KEGG_Rheumatoid_arthritis__Kegg_NCBI_Biosystems","PW_Lists",0.000145294066016265
+"425","greenyellow","200309_KEGG_Rheumatoid_arthritis__Kegg_NCBI_Biosystems","PW_Lists",0.000145294066016265
+"426","lightcyan","460_KEGG_Cytokine-cytokine_receptor_interaction__Kegg_NCBI_Biosystems","PW_Lists",0.00014851167694547
+"427","lightcyan","83051_KEGG_Cytokine-cytokine_receptor_interaction__Kegg_NCBI_Biosystems","PW_Lists",0.00014851167694547
+"428","green","Cerebellar Nucleus_globalMarker(top200)__HBA","HumanBrainRegions",0.000156819039482533
+"429","black","upMGactivagtion_GSE1910__MicrogialMarkers","Brain",0.000162139377037027
+"430","turquoise","Substantia Innominata_localMarker(FC>2)_IN_Basal Forebrain__HBA","HumanBrainRegions",0.000190786375437323
+"431","darkslateblue","magenta_M8_Microglia(Type2)__HumanMeta","Brain",0.000196124092137649
+"432","plum","Reticular Nucleus of Thalamus_localMarker(top200)_IN_Ventral Thalamus__HBA","HumanBrainRegions",0.00020035884783214
+"433","coral1","198860_WikiPathways_Electron_Transport_Chain__Wiki_Pathways_NCBI_Biosystems","PW_Lists",0.000211530612428016
+"434","lightpink4","121285_KEGG_Dilated_cardiomyopathy__Kegg_NCBI_Biosystems","PW_Lists",0.00022133387964612
+"435","lightpink4","121494_KEGG_Dilated_cardiomyopathy__Kegg_NCBI_Biosystems","PW_Lists",0.00022133387964612
+"436","lightcyan","6201_mito_db_pad_2664__Palazzolo_and_Wang","PW_Lists",0.000234085206393553
+"437","darkseagreen4","106516_REACTOME_Transmission_across_Chemical_Synapses__Reactome_NCBI_Biosystems","PW_Lists",0.000236302966449991
+"438","turquoise","magenta_downAD_synapticTransmission__Blalock_AD","Brain",0.000241896617326445
+"439","yellow4","Tail of Caudate Nucleus_localMarker(FC>2)_IN_Striatum__HBA","HumanBrainRegions",0.000265384785157732
+"440","darkolivegreen4","137998_Pathway_Interaction_Database_TCR_signaling_in_naive_CD4+_T_cells__Pathway_Interaction_Database_NCBI_Biosystems","PW_Lists",0.000269785314849644
+"441","lightyellow","DownWithAlzheimers_Liang__ADvsCT_inCA1","Brain",0.000270782363545746
+"442","darkseagreen4","6005_presynaptic_forebrain_pad_95__Palazzolo_and_Wang","PW_Lists",0.000274088759584507
+"443","lightcyan","upInFrontalCortex__EarlyAD","Brain",0.000277073192480266
+"444","lightcyan","IL-4 __ImmunePathway","Immune",0.000277145725026294
+"445","sienna3","142269_BIOCYC_superpathway_of_cholesterol_biosynthesis__Biocyc_NCBI_Biosystems","PW_Lists",0.000304645701859693
+"446","turquoise","Striatum_globalMarker(top200)__HBA","HumanBrainRegions",0.00030909081191479
+"447","green","Emboliform Nucleus_localMarker(FC>2)_IN_Cerebellar Nucleus__HBA","HumanBrainRegions",0.000315180492722865
+"448","darkslateblue","Astrocyte_definite__Cahoy","Brain",0.000320103616879068
+"449","turquoise","Autism_differential_expression_across_at_least_one_comparison__Voineagu","Brain",0.000326405336204832
+"450","darkmagenta","477124_REACTOME_ER-Phagosome_pathway__Reactome_NCBI_Biosystems","PW_Lists",0.000331254548479205
+"451","lightsteelblue","Supraoptic Nucleus_localMarker(FC>2)_IN_Hypothalamus__HBA","HumanBrainRegions",0.000353273353550485
+"452","darkseagreen4","Polycomb_genes_(PGSTs)_repressed_by_SCs_(Table_S9)__Lee","StemCells",0.000407047532593024
+"453","coral1","105739_REACTOME_Cell_Cycle_Checkpoints__Reactome_NCBI_Biosystems","PW_Lists",0.000419131003889758
+"454","lightpink4","mutationMouseAndHuman__JAXdiseaseGene","Brain",0.000440044273414373
+"455","black","153859_KEGG_Phagosome__Kegg_NCBI_Biosystems","PW_Lists",0.000451158643143012
+"456","black","153910_KEGG_Phagosome__Kegg_NCBI_Biosystems","PW_Lists",0.000451158643143012
+"457","lightpink4","198903_WikiPathways_Striated_Muscle_Contraction__Wiki_Pathways_NCBI_Biosystems","PW_Lists",0.000462319659343898
+"458","turquoise","Midbrain Raphe Nuclei_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",0.00047973601191792
+"459","turquoise","106534_REACTOME_Neurotransmitter_Receptor_Binding_And_Downstream_Transmission_In_The__Postsynaptic_Cell__Reactome_NCBI_Biosystems","PW_Lists",0.000495595466352829
+"460","turquoise","raphe nuclei of medulla_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",0.000495595466352829
+"461","darkolivegreen4","119552_REACTOME_Costimulation_by_the_CD28_family__Reactome_NCBI_Biosystems","PW_Lists",0.000554482824335034
+"462","turquoise","Midbrain Raphe Nuclei_localMarker(FC>2)_IN_Mesencephalon__HBA","HumanBrainRegions",0.000566334297944965
+"463","bisque4","Putamen_localMarker(top200)_IN_Striatum__HBA","HumanBrainRegions",0.000616287524654146
+"464","turquoise","Nucleus Accumbens_localMarker(FC>2)_IN_Striatum__HBA","HumanBrainRegions",0.000635330764214946
+"465","lightyellow","105922_REACTOME_Formation_of_ATP_by_chemiosmotic_coupling__Reactome_NCBI_Biosystems","PW_Lists",0.00064858432420051
+"466","coral1","106010_REACTOME_Host_Interactions_of_HIV_factors__Reactome_NCBI_Biosystems","PW_Lists",0.000668550804023723
+"467","skyblue","CA4 field_localMarker(top200)_IN_Hippocampal Formation__HBA","HumanBrainRegions",0.00066979284081491
+"468","yellow4","Preoptic Region_localMarker(FC>2)_IN_Hypothalamus__HBA","HumanBrainRegions",0.000732027124072279
+"469","coral1","salmon_M12_Ribosome__MouseMeta","Brain",0.000755489480543355
+"470","lightcoral","213277_KEGG_Measles__Kegg_NCBI_Biosystems","PW_Lists",0.00078870301289602
+"471","lightcoral","213306_KEGG_Measles__Kegg_NCBI_Biosystems","PW_Lists",0.00078870301289602
+"472","yellow4","Dorthal Thalamus_globalMarker(top200)__HBA","HumanBrainRegions",0.00082080001540901
+"473","black","Innate immunity signaling__ImmunePathway","Immune",0.000821312188533761
+"474","greenyellow","480_KEGG_Cell_adhesion_molecules_(CAMs)__Kegg_NCBI_Biosystems","PW_Lists",0.00088602552573703
+"475","greenyellow","83069_KEGG_Cell_adhesion_molecules_(CAMs)__Kegg_NCBI_Biosystems","PW_Lists",0.00088602552573703
+"476","greenyellow","Cell adhesion molecules__ImmunePathway","Immune",0.00088602552573703
+"477","darkmagenta","105782_REACTOME_S_Phase__Reactome_NCBI_Biosystems","PW_Lists",0.000949398577308426
+"478","orangered3","Annotated_genes_bound_by_RNA_polymerase_II_(Table_S2)__Lee","StemCells",0.0010376228167714
+"479","plum2","brown_M3_Astrocytes__HumanMeta","Brain",0.00106140209006061
+"480","antiquewhite4","167190_KEGG_Protein_processing_in_endoplasmic_reticulum__Kegg_NCBI_Biosystems","PW_Lists",0.00107370785681443
+"481","antiquewhite4","167325_KEGG_Protein_processing_in_endoplasmic_reticulum__Kegg_NCBI_Biosystems","PW_Lists",0.00107370785681443
+"482","coral2","turquoise_M14_Nucleus__HumanMeta","Brain",0.00107417864060956
+"483","floralwhite","dorsal motor nucleus of the vagus_localMarker(FC>2)_IN_Myelencephalon__HBA","HumanBrainRegions",0.0010817689492742
+"484","palevioletred3","Supraoptic Nucleus_localMarker(FC>2)_IN_Hypothalamus__HBA","HumanBrainRegions",0.00121434040655409
+"485","lightyellow","413408_KEGG_NADH_dehydrogenase_(ubiquinone)_1_alpha_subcomplex__Kegg_NCBI_Biosystems","PW_Lists",0.00127179245662052
+"486","lightpink4","106591_KEGG_Hypertrophic_cardiomyopathy_(HCM)__Kegg_NCBI_Biosystems","PW_Lists",0.00135127704329462
+"487","lightpink4","114229_KEGG_Hypertrophic_cardiomyopathy_(HCM)__Kegg_NCBI_Biosystems","PW_Lists",0.00135127704329462
+"488","greenyellow","485_KEGG_Antigen_processing_and_presentation__Kegg_NCBI_Biosystems","PW_Lists",0.00141065078957956
+"489","greenyellow","83074_KEGG_Antigen_processing_and_presentation__Kegg_NCBI_Biosystems","PW_Lists",0.00141065078957956
+"490","greenyellow","upInFrontalCortex__EarlyAD","Brain",0.00143491092804673
+"491","coral1","105769_REACTOME_G1S_Transition__Reactome_NCBI_Biosystems","PW_Lists",0.00145989971063969
+"492","coral1","477137_REACTOME_The_citric_acid_(TCA)_cycle_and_respiratory_electron_transport__Reactome_NCBI_Biosystems","PW_Lists",0.00151978155563239
+"493","darkseagreen4","Nucleus Accumbens_localMarker(top200)_IN_Striatum__HBA","HumanBrainRegions",0.00161188212420395
+"494","black","106387_REACTOME_Innate_Immune_System__Reactome_NCBI_Biosystems","PW_Lists",0.00165864121911711
+"495","lightcyan","488_KEGG_Jak-STAT_signaling_pathway__Kegg_NCBI_Biosystems","PW_Lists",0.00170088068068206
+"496","lightcyan","83077_KEGG_Jak-STAT_signaling_pathway__Kegg_NCBI_Biosystems","PW_Lists",0.00170088068068206
+"497","lightcyan","General Jak/STAT__ImmunePathway","Immune",0.00170088068068206
+"498","greenyellow","Antigent processing and presentation__ImmunePathway","Immune",0.00173126460567101
+"499","coral1","512_KEGG_Huntington's_disease__Kegg_NCBI_Biosystems","PW_Lists",0.00176122204749252
+"500","coral1","83100_KEGG_Huntington's_disease__Kegg_NCBI_Biosystems","PW_Lists",0.00176122204749252
+"501","skyblue","overexpressed_in_multipotent_primary_hematopoietic_SCs_(CD133+)__Cui","StemCells",0.00176366812064852
+"502","lightcyan","137976_Pathway_Interaction_Database_IL2-mediated_signaling_events__Pathway_Interaction_Database_NCBI_Biosystems","PW_Lists",0.00178476369471131
+"503","yellow4","Neuron_definite__Cahoy","Brain",0.00181211327041367
+"504","black","366160_REACTOME_Adaptive_Immune_System__Reactome_NCBI_Biosystems","PW_Lists",0.00182133122212946
+"505","darkseagreen4","6010_postsynaptic_nmda_masc_nrc_pad_184__Palazzolo_and_Wang","PW_Lists",0.00184234406644439
+"506","lightcyan","194323_KEGG_African_trypanosomiasis__Kegg_NCBI_Biosystems","PW_Lists",0.00187024820425843
+"507","lightcyan","194384_KEGG_African_trypanosomiasis__Kegg_NCBI_Biosystems","PW_Lists",0.00187024820425843
+"508","lightcyan","upMacrophageAndMGactivagtion_GSE1910__MicrogialMarkers","Brain",0.00187024820425843
+"509","greenyellow","193096_KEGG_Osteoclast_differentiation__Kegg_NCBI_Biosystems","PW_Lists",0.00187074238295737
+"510","greenyellow","193147_KEGG_Osteoclast_differentiation__Kegg_NCBI_Biosystems","PW_Lists",0.00187074238295737
+"511","lightyellow","413445_KEGG_Spliceosome,_U4U6.U5_tri-snRNP__Kegg_NCBI_Biosystems","PW_Lists",0.00199197927559029
+"512","lightcyan","Supraoptic Nucleus_localMarker(FC>2)_IN_Hypothalamus__HBA","HumanBrainRegions",0.00201315151674272
+"513","darkmagenta","477122_REACTOME_Antigen_processing-Cross_presentation__Reactome_NCBI_Biosystems","PW_Lists",0.00201734228149022
+"514","yellow4","537443_KEGG_Retrograde_endocannabinoid_signaling__Kegg_NCBI_Biosystems","PW_Lists",0.00202801936364187
+"515","yellow4","539806_KEGG_Retrograde_endocannabinoid_signaling__Kegg_NCBI_Biosystems","PW_Lists",0.00202801936364187
+"516","greenyellow","106417_REACTOME_Generation_of_second_messenger_molecules__Reactome_NCBI_Biosystems","PW_Lists",0.00203034924104707
+"517","coral1","477135_REACTOME_Metabolism__Reactome_NCBI_Biosystems","PW_Lists",0.00220954582546242
+"518","floralwhite","dorsal motor nucleus of the vagus_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",0.0022131706064891
+"519","greenyellow","536_KEGG_Graft-versus-host_disease__Kegg_NCBI_Biosystems","PW_Lists",0.00223816299659309
+"520","greenyellow","83124_KEGG_Graft-versus-host_disease__Kegg_NCBI_Biosystems","PW_Lists",0.00223816299659309
+"521","lightyellow","522535_KEGG_F-type_ATPase,_eukaryotes__Kegg_NCBI_Biosystems","PW_Lists",0.00233797429925653
+"522","lightcyan","198825_WikiPathways_Selenium_Pathway__Wiki_Pathways_NCBI_Biosystems","PW_Lists",0.0023622848945434
+"523","darkslateblue","Mesencephalon_globalMarker(top200)__HBA","HumanBrainRegions",0.0023662081824042
+"524","lightpink4","171868_KEGG_Protein_digestion_and_absorption__Kegg_NCBI_Biosystems","PW_Lists",0.00239888330771482
+"525","lightpink4","172847_KEGG_Protein_digestion_and_absorption__Kegg_NCBI_Biosystems","PW_Lists",0.00239888330771482
+"526","darkmagenta","105796_REACTOME_Ubiquitin-dependent_degradation_of_Cyclin_D__Reactome_NCBI_Biosystems","PW_Lists",0.00241059632521797
+"527","darkmagenta","105797_REACTOME_Ubiquitin-dependent_degradation_of_Cyclin_D1__Reactome_NCBI_Biosystems","PW_Lists",0.00241059632521797
+"528","darkmagenta","106176_REACTOME_Regulation_of_ornithine_decarboxylase_(ODC)__Reactome_NCBI_Biosystems","PW_Lists",0.00241059632521797
+"529","darkolivegreen4","106415_REACTOME_Phosphorylation_of_CD3_and_TCR_zeta_chains__Reactome_NCBI_Biosystems","PW_Lists",0.00241520123262102
+"530","lightsteelblue","138045_Pathway_Interaction_Database_HIF-1-alpha_transcription_factor_network__Pathway_Interaction_Database_NCBI_Biosystems","PW_Lists",0.00250799361350786
+"531","black","534_KEGG_Systemic_lupus_erythematosus__Kegg_NCBI_Biosystems","PW_Lists",0.00253704907029141
+"532","black","83122_KEGG_Systemic_lupus_erythematosus__Kegg_NCBI_Biosystems","PW_Lists",0.00253704907029141
+"533","greenyellow","125138_KEGG_Viral_myocarditis__Kegg_NCBI_Biosystems","PW_Lists",0.00257351202886155
+"534","darkmagenta","6201_mito_db_pad_2664__Palazzolo_and_Wang","PW_Lists",0.00257608336936098
+"535","coral1","105921_REACTOME_Respiratory_electron_transport,_ATP_synthesis_by_chemiosmotic_coupling,_and_heat_production_by_uncoupling_proteins.__Reactome_NCBI_Biosystems","PW_Lists",0.00267623662270152
+"536","grey60","green_M5_Mitochondria__HumanMeta","Brain",0.00267655295623079
+"537","coral1","366162_REACTOME_Antigen_processing__Ubiquitination_&_Proteasome_degradation__Reactome_NCBI_Biosystems","PW_Lists",0.00270144760336368
+"538","lightcoral","106387_REACTOME_Innate_Immune_System__Reactome_NCBI_Biosystems","PW_Lists",0.00272699630749564
+"539","darkred","Zona Incerta_localMarker(FC>2)_IN_Ventral Thalamus__HBA","HumanBrainRegions",0.00274840423634553
+"540","lightcoral","536_KEGG_Graft-versus-host_disease__Kegg_NCBI_Biosystems","PW_Lists",0.00280013698054309
+"541","lightcoral","83124_KEGG_Graft-versus-host_disease__Kegg_NCBI_Biosystems","PW_Lists",0.00280013698054309
+"542","darkturquoise","105937_REACTOME_Gene_Expression__Reactome_NCBI_Biosystems","PW_Lists",0.00285204993001702
+"543","turquoise","105688_REACTOME_Axon_guidance__Reactome_NCBI_Biosystems","PW_Lists",0.0028799169062854
+"544","turquoise","161020_REACTOME_GPCR_ligand_binding__Reactome_NCBI_Biosystems","PW_Lists",0.00292263001377518
+"545","lightpink4","106110_REACTOME_Integrin_cell_surface_interactions__Reactome_NCBI_Biosystems","PW_Lists",0.00299951687575838
+"546","coral2","Down_CD40_stimulation_in_MG_AitGhezala__MicrogialMarkers","Brain",0.00302347200271104
+"547","sienna3","106142_REACTOME_Cholesterol_biosynthesis__Reactome_NCBI_Biosystems","PW_Lists",0.00304373586976997
+"548","orangered3","22578497_synaptic_transcriptome_2338__PMID_22578497_Cajigas_2012","PW_Lists",0.00304446593780431
+"549","turquoise","Superior Colliculus_localMarker(top200)_IN_Mesencephalon__HBA","HumanBrainRegions",0.00321338270500011
+"550","darkslateblue","brown_upAging_copperHomeostatisMT1__Lu_Aging","Brain",0.00350026534624899
+"551","turquoise","Hypothalamus_globalMarker(top200)__HBA","HumanBrainRegions",0.00355863346670916
+"552","darkseagreen4","CA3 field_localMarker(top200)_IN_Hippocampal Formation__HBA","HumanBrainRegions",0.0036055092094327
+"553","greenyellow","106414_REACTOME_TCR_signaling__Reactome_NCBI_Biosystems","PW_Lists",0.00376305453785546
+"554","greenyellow","217150_KEGG_Influenza_A__Kegg_NCBI_Biosystems","PW_Lists",0.00377892316958686
+"555","greenyellow","217173_KEGG_Influenza_A__Kegg_NCBI_Biosystems","PW_Lists",0.00377892316958686
+"556","darkslateblue","pontine raphe nucleus_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",0.00387825759434242
+"557","black","460_KEGG_Cytokine-cytokine_receptor_interaction__Kegg_NCBI_Biosystems","PW_Lists",0.00401892229003834
+"558","black","83051_KEGG_Cytokine-cytokine_receptor_interaction__Kegg_NCBI_Biosystems","PW_Lists",0.00401892229003834
+"559","yellow4","Polycomb_genes_(PGSTs)_repressed_by_SCs_(Table_S9)__Lee","StemCells",0.00420931532676036
+"560","lightpink4","198766_WikiPathways_Inflammatory_Response_Pathway__Wiki_Pathways_NCBI_Biosystems","PW_Lists",0.00433757533546748
+"561","darkslateblue","484_KEGG_Complement_and_coagulation_cascades__Kegg_NCBI_Biosystems","PW_Lists",0.00446090212336856
+"562","darkslateblue","83073_KEGG_Complement_and_coagulation_cascades__Kegg_NCBI_Biosystems","PW_Lists",0.00446090212336856
+"563","lightcyan","overexpressed_in_multipotent_primary_hematopoietic_SCs_(CD133+)__Cui","StemCells",0.0048117058999007
+"564","darkseagreen4","Tail of Caudate Nucleus_localMarker(top200)_IN_Striatum__HBA","HumanBrainRegions",0.00529104887259371
+"565","lightcyan","106386_REACTOME_Immune_System__Reactome_NCBI_Biosystems","PW_Lists",0.0054109278382786
+"566","lightcyan","217150_KEGG_Influenza_A__Kegg_NCBI_Biosystems","PW_Lists",0.00542143122292296
+"567","lightcyan","217173_KEGG_Influenza_A__Kegg_NCBI_Biosystems","PW_Lists",0.00542143122292296
+"568","turquoise","blue_downAD_metalIonTransport_glycoprotein__Blalock_AD","Brain",0.00573817415597552
+"569","yellow4","inferior olivary complex_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",0.00577474388219687
+"570","lightcyan","CD40__ImmunePathway","Immune",0.00595148552382933
+"571","darkseagreen4","Lateral Nucleus_localMarker(top200)_IN_Amygdala__HBA","HumanBrainRegions",0.00599674837950971
+"572","darkseagreen4","locus ceruleus_localMarker(top200)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",0.00599674837950971
+"573","navajowhite2","turquoise_upAging_oligo__Lu_Aging","Brain",0.00612075554993468
+"574","plum2","red_ACCandCaudate__HumanChimp","Brain",0.00616841585769576
+"575","lightcyan","RedBloodCell__Kabanova","Blood",0.00624872621195425
+"576","darkmagenta","105784_REACTOME_Synthesis_of_DNA__Reactome_NCBI_Biosystems","PW_Lists",0.00626789678503722
+"577","coral1","160939_REACTOME_Autodegradation_of_the_E3_ubiquitin_ligase_COP1__Reactome_NCBI_Biosystems","PW_Lists",0.00637052771479968
+"578","plum","turquoise_upAging_oligo__Lu_Aging","Brain",0.00656336323081662
+"579","tan","brown_downAD_mitochondrion__Blalock_AD","Brain",0.00717747944482963
+"580","darkseagreen4","6008_synapse_clathrin_coat_pad_149__Palazzolo_and_Wang","PW_Lists",0.00735276200881842
+"581","lightcyan","198885_WikiPathways_IL-2_Signaling_Pathway__Wiki_Pathways_NCBI_Biosystems","PW_Lists",0.00740777735218625
+"582","coral2","yellow_M18__CTX","Brain",0.00751546983513911
+"583","coral2","brown_pyramidalNeurons_Layer5/basolateralAmygdala__Sugino/Winden","Brain",0.00767007615768689
+"584","darkseagreen4","subiculum_localMarker(FC>2)_IN_Hippocampal Formation__HBA","HumanBrainRegions",0.00790206061158549
+"585","darkturquoise","22578497_synaptic_transcriptome_2338__PMID_22578497_Cajigas_2012","PW_Lists",0.00793206502653056
+"586","coral1","105744_REACTOME_Stabilization_of_p53__Reactome_NCBI_Biosystems","PW_Lists",0.00801683643933805
+"587","turquoise","dorsal motor nucleus of the vagus_localMarker(top200)_IN_Myelencephalon__HBA","HumanBrainRegions",0.00812413301081602
+"588","black","160140_REACTOME_Signaling_by_Interleukins__Reactome_NCBI_Biosystems","PW_Lists",0.00850972545403002
+"589","tan","DownWithAlzheimers_Blalock__ADvsCT_inCA1","Brain",0.00857856819985838
+"590","yellow4","106513_REACTOME_Neuronal_System__Reactome_NCBI_Biosystems","PW_Lists",0.00858302373487949
+"591","lightpink4","167191_KEGG_Amoebiasis__Kegg_NCBI_Biosystems","PW_Lists",0.00868681954104176
+"592","lightpink4","167324_KEGG_Amoebiasis__Kegg_NCBI_Biosystems","PW_Lists",0.00868681954104176
+"593","darkolivegreen4","CTL mediated immune response__ImmunePathway","Immune",0.00870045381805591
+"594","coral1","Down_CD40_stimulation_in_MG_AitGhezala__MicrogialMarkers","Brain",0.00875661348581166
+"595","sienna3","138626_BIOCYC_cholesterol_biosynthesis_II_(via_24,25-dihydrolanosterol)__Biocyc_NCBI_Biosystems","PW_Lists",0.00900122844522613
+"596","sienna3","138627_BIOCYC_cholesterol_biosynthesis_I__Biocyc_NCBI_Biosystems","PW_Lists",0.00900122844522613
+"597","sienna3","138628_BIOCYC_cholesterol_biosynthesis_III_(via_desmosterol)__Biocyc_NCBI_Biosystems","PW_Lists",0.00900122844522613
+"598","turquoise","Cerebral Cortex_globalMarker(top200)__HBA","HumanBrainRegions",0.00927260850751138
+"599","coral1","105820_REACTOME_MG1_Transition__Reactome_NCBI_Biosystems","PW_Lists",0.00951851814591701
+"600","coral1","105898_REACTOME_DNA_Replication_Pre-Initiation__Reactome_NCBI_Biosystems","PW_Lists",0.00951851814591701
+"601","greenyellow","OX40__ImmunePathway","Immune",0.0100081468864429
+"602","coral1","445_KEGG_Proteasome__Kegg_NCBI_Biosystems","PW_Lists",0.0107716841145923
+"603","coral1","83040_KEGG_Proteasome__Kegg_NCBI_Biosystems","PW_Lists",0.0107716841145923
+"604","darkseagreen4","Annotated_genes_bound_by_Suz12_(Table_S8)__Lee","StemCells",0.0113068969115655
+"605","darkmagenta","105771_REACTOME_SCF(Skp2)-mediated_degradation_of_p27p21__Reactome_NCBI_Biosystems","PW_Lists",0.0113073850363064
+"606","tan","turquoise_downAD_intracellularTransport_cytoskeleton__Blalock_AD","Brain",0.0113626412814531
+"607","coral1","105770_REACTOME_Cyclin_E_associated_events_during_G1S_transition__Reactome_NCBI_Biosystems","PW_Lists",0.011633300038769
+"608","greenyellow","489_KEGG_Hematopoietic_cell_lineage__Kegg_NCBI_Biosystems","PW_Lists",0.0119573124766236
+"609","greenyellow","83078_KEGG_Hematopoietic_cell_lineage__Kegg_NCBI_Biosystems","PW_Lists",0.0119573124766236
+"610","greenyellow","ICOS__ImmunePathway","Immune",0.0119573124766236
+"611","greenyellow","477114_REACTOME_Signal_Transduction__Reactome_NCBI_Biosystems","PW_Lists",0.0120139160755363
+"612","skyblue","Annotated_genes_bound_by_Suz12_(Table_S8)__Lee","StemCells",0.0120297214593149
+"613","floralwhite","477114_REACTOME_Signal_Transduction__Reactome_NCBI_Biosystems","PW_Lists",0.0122807598556101
+"614","darkseagreen4","CA3specific_Newrzella__CA1vsCA3","Brain",0.0124631055169125
+"615","coral1","106017_REACTOME_Vif-mediated_degradation_of_APOBEC3G__Reactome_NCBI_Biosystems","PW_Lists",0.012481124151354
+"616","coral1","187212_REACTOME_Destabilization_of_mRNA_by_AUF1_(hnRNP_D0)__Reactome_NCBI_Biosystems","PW_Lists",0.012481124151354
+"617","lightcoral","173907_KEGG_Hepatitis_C__Kegg_NCBI_Biosystems","PW_Lists",0.0128578613752094
+"618","lightcoral","173973_KEGG_Hepatitis_C__Kegg_NCBI_Biosystems","PW_Lists",0.0128578613752094
+"619","navajowhite2","blue_M16_Neuron__CTX","Brain",0.0128717249323144
+"620","skyblue","Globose Nucleus_localMarker(top200)_IN_Cerebellar Nucleus__HBA","HumanBrainRegions",0.0129011793725409
+"621","black","106590_KEGG_Fc_gamma_R-mediated_phagocytosis__Kegg_NCBI_Biosystems","PW_Lists",0.0132127310738711
+"622","black","114228_KEGG_Fc_gamma_R-mediated_phagocytosis__Kegg_NCBI_Biosystems","PW_Lists",0.0132127310738711
+"623","coral1","105783_REACTOME_Cyclin_A_Cdk2-associated_events_at_S_phase_entry__Reactome_NCBI_Biosystems","PW_Lists",0.014022985740419
+"624","black","106413_REACTOME_Immunoregulatory_interactions_between_a_Lymphoid_and_a_non-Lymphoid_cell__Reactome_NCBI_Biosystems","PW_Lists",0.0143142454007467
+"625","lightcoral","507_KEGG_Type_I_diabetes_mellitus__Kegg_NCBI_Biosystems","PW_Lists",0.0146672227527804
+"626","lightcoral","83095_KEGG_Type_I_diabetes_mellitus__Kegg_NCBI_Biosystems","PW_Lists",0.0146672227527804
+"627","darkmagenta","477126_REACTOME_Cross-presentation_of_soluble_exogenous_antigens_(endosomes)__Reactome_NCBI_Biosystems","PW_Lists",0.014695419869764
+"628","lightcoral","116128_KEGG_RIG-I-like_receptor_signaling_pathway__Kegg_NCBI_Biosystems","PW_Lists",0.0147501678540717
+"629","lightcoral","117292_KEGG_RIG-I-like_receptor_signaling_pathway__Kegg_NCBI_Biosystems","PW_Lists",0.0147501678540717
+"630","plum","Oligodendrocyte__ABA","Brain",0.0157730077070043
+"631","coral1","160943_REACTOME_Mitotic_M-MG1_phases__Reactome_NCBI_Biosystems","PW_Lists",0.0160098783283289
+"632","lightsteelblue","530764_REACTOME_Disease__Reactome_NCBI_Biosystems","PW_Lists",0.0164600540633472
+"633","yellow4","213811_KEGG_Glutamatergic_synapse__Kegg_NCBI_Biosystems","PW_Lists",0.0165312317637828
+"634","yellow4","213818_KEGG_Glutamatergic_synapse__Kegg_NCBI_Biosystems","PW_Lists",0.0165312317637828
+"635","coral1","105831_REACTOME_APCC_Cdc20_mediated_degradation_of_mitotic_proteins__Reactome_NCBI_Biosystems","PW_Lists",0.0168416907668018
+"636","coral1","105782_REACTOME_S_Phase__Reactome_NCBI_Biosystems","PW_Lists",0.017548895551169
+"637","turquoise","6013_synapse_textbook_pad_138__Palazzolo_and_Wang","PW_Lists",0.0175819683066688
+"638","darkseagreen4","abducens nucleus_localMarker(FC>2)_IN_Pontine Tegmentum__HBA","HumanBrainRegions",0.0176563526771647
+"639","darkseagreen4","Vermis_localMarker(top200)_IN_Cerebellar Cortex__HBA","HumanBrainRegions",0.018839149026787
+"640","coral1","105824_REACTOME_CDT1_association_with_the_CDC6_ORC_origin_complex__Reactome_NCBI_Biosystems","PW_Lists",0.019025731671194
+"641","lightcoral","480_KEGG_Cell_adhesion_molecules_(CAMs)__Kegg_NCBI_Biosystems","PW_Lists",0.0193270961382336
+"642","lightcoral","83069_KEGG_Cell_adhesion_molecules_(CAMs)__Kegg_NCBI_Biosystems","PW_Lists",0.0193270961382336
+"643","lightcoral","Cell adhesion molecules__ImmunePathway","Immune",0.0193270961382336
+"644","turquoise","213811_KEGG_Glutamatergic_synapse__Kegg_NCBI_Biosystems","PW_Lists",0.0198990964067811
+"645","turquoise","213818_KEGG_Glutamatergic_synapse__Kegg_NCBI_Biosystems","PW_Lists",0.0198990964067811
+"646","coral1","105829_REACTOME_Activation_of_APCC_and_APCC_Cdc20_mediated_degradation_of_mitotic_proteins__Reactome_NCBI_Biosystems","PW_Lists",0.0201554790588214
+"647","turquoise","462_KEGG_Neuroactive_ligand-receptor_interaction__Kegg_NCBI_Biosystems","PW_Lists",0.0205366518071917
+"648","turquoise","83053_KEGG_Neuroactive_ligand-receptor_interaction__Kegg_NCBI_Biosystems","PW_Lists",0.0205366518071917
+"649","lightcyan1","Supraoptic Nucleus_localMarker(top200)_IN_Hypothalamus__HBA","HumanBrainRegions",0.020961213382949
+"650","greenyellow","507_KEGG_Type_I_diabetes_mellitus__Kegg_NCBI_Biosystems","PW_Lists",0.0211758023396438
+"651","greenyellow","83095_KEGG_Type_I_diabetes_mellitus__Kegg_NCBI_Biosystems","PW_Lists",0.0211758023396438
+"652","turquoise","106356_REACTOME_Signaling_by_GPCR__Reactome_NCBI_Biosystems","PW_Lists",0.0213078672785886
+"653","lightcoral","187102_REACTOME_Negative_regulators_of_RIG-IMDA5_signaling__Reactome_NCBI_Biosystems","PW_Lists",0.021791803759346
+"654","lightgreen","BloodPlatelets_customArray__Gnatenko2","Blood",0.0228758358822353
+"655","darkmagenta","105686_REACTOME_Regulation_of_activated_PAK-2p34_by_proteasome_mediated_degradation__Reactome_NCBI_Biosystems","PW_Lists",0.0230811801536069
+"656","darkmagenta","105788_REACTOME_CDK-mediated_phosphorylation_and_removal_of_Cdc6__Reactome_NCBI_Biosystems","PW_Lists",0.0230811801536069
+"657","lightcyan","522987_KEGG_Transcriptional_misregulation_in_cancer__Kegg_NCBI_Biosystems","PW_Lists",0.0232373968810534
+"658","lightcyan","523016_KEGG_Transcriptional_misregulation_in_cancer__Kegg_NCBI_Biosystems","PW_Lists",0.0232373968810534
+"659","coral1","105741_REACTOME_p53-Dependent_G1S_DNA_damage_checkpoint__Reactome_NCBI_Biosystems","PW_Lists",0.023317926401599
+"660","coral1","105743_REACTOME_p53-Dependent_G1_DNA_Damage_Response__Reactome_NCBI_Biosystems","PW_Lists",0.023317926401599
+"661","turquoise","tan_M13_Neuron__HumanMeta","Brain",0.0233764891442186
+"662","darkmagenta","105836_REACTOME_Autodegradation_of_Cdh1_by_Cdh1_APCC__Reactome_NCBI_Biosystems","PW_Lists",0.0245702594814015
+"663","darkmagenta","198786_WikiPathways_Proteasome_Degradation__Wiki_Pathways_NCBI_Biosystems","PW_Lists",0.0245702594814015
+"664","tan","brown_pyramidalNeurons_Layer5/basolateralAmygdala__Sugino/Winden","Brain",0.0270368769153137
+"665","greenyellow","366171_REACTOME_Cytokine_Signaling_in_Immune_system__Reactome_NCBI_Biosystems","PW_Lists",0.0277661075097364
+"666","palevioletred3","Septal nuclei_localMarker(top200)_IN_Basal Forebrain__HBA","HumanBrainRegions",0.0279540334106497
+"667","darkseagreen4","green_M10_GlutamatergicSynapticFunction__CTX","Brain",0.0279754238496788
+"668","turquoise","CA1specific_Newrzella__CA1vsCA3","Brain",0.0282169266639367
+"669","coral1","477126_REACTOME_Cross-presentation_of_soluble_exogenous_antigens_(endosomes)__Reactome_NCBI_Biosystems","PW_Lists",0.0286205947791481
+"670","lightsteelblue","magenta_M8_Microglia(Type2)__MouseMeta","Brain",0.0292324313362251
+"671","lightsteelblue","upMGactivagtion_GSE1910__MicrogialMarkers","Brain",0.0299215128399365
+"672","darkseagreen4","Central Nucleus_localMarker(top200)_IN_Amygdala__HBA","HumanBrainRegions",0.0305075079982748
+"673","coral1","6207_mito_housekeeping_pad_173__Palazzolo_and_Wang","PW_Lists",0.032312119397071
+"674","coral1","160941_REACTOME_Mitotic_G1-G1S_phases__Reactome_NCBI_Biosystems","PW_Lists",0.0325119483939444
+"675","darkseagreen4","23_HD_Yang_cortex_569__Yang","PW_Lists",0.0332294307877221
+"676","yellow4","106516_REACTOME_Transmission_across_Chemical_Synapses__Reactome_NCBI_Biosystems","PW_Lists",0.0343573256056042
+"677","coral1","105740_REACTOME_G1S_DNA_Damage_Checkpoints__Reactome_NCBI_Biosystems","PW_Lists",0.0345483185916756
+"678","coral1","413447_KEGG_Proteasome,_19S_regulatory_particle_(PA700)__Kegg_NCBI_Biosystems","PW_Lists",0.0345575083454885
+"679","black","366171_REACTOME_Cytokine_Signaling_in_Immune_system__Reactome_NCBI_Biosystems","PW_Lists",0.0351717797337844
+"680","darkmagenta","105833_REACTOME_APCC_Cdc20_mediated_degradation_of_Securin__Reactome_NCBI_Biosystems","PW_Lists",0.035346094439972
+"681","darkmagenta","105747_REACTOME_p53-Independent_G1S_DNA_damage_checkpoint__Reactome_NCBI_Biosystems","PW_Lists",0.0354074487555818
+"682","darkmagenta","105748_REACTOME_p53-Independent_DNA_Damage_Response__Reactome_NCBI_Biosystems","PW_Lists",0.0354074487555818
+"683","darkmagenta","105749_REACTOME_Ubiquitin_Mediated_Degradation_of_Phosphorylated_Cdc25A__Reactome_NCBI_Biosystems","PW_Lists",0.0354074487555818
+"684","darkmagenta","106026_REACTOME_Vpu_mediated_degradation_of_CD4__Reactome_NCBI_Biosystems","PW_Lists",0.0354074487555818
+"685","darkmagenta","160939_REACTOME_Autodegradation_of_the_E3_ubiquitin_ligase_COP1__Reactome_NCBI_Biosystems","PW_Lists",0.0354074487555818
+"686","turquoise","salmon_M8__CTX","Brain",0.0365400378867195
+"687","darkseagreen4","Schizophrenia_possible__DiseaseGenes","Brain",0.0365997199954212
+"688","sienna3","142266_BIOCYC_cholesterol_biosynthesis_II_(via_24,25-dihydrolanosterol)__Biocyc_NCBI_Biosystems","PW_Lists",0.0378543173981332
+"689","sienna3","142267_BIOCYC_cholesterol_biosynthesis_I__Biocyc_NCBI_Biosystems","PW_Lists",0.0378543173981332
+"690","sienna3","142268_BIOCYC_cholesterol_biosynthesis_III_(via_desmosterol)__Biocyc_NCBI_Biosystems","PW_Lists",0.0378543173981332
+"691","lightgreen","Endoplasmic_Reticulum_Foster__MO","Brain",0.0392369379021953
+"692","darkseagreen4","106520_REACTOME_Serotonin_Neurotransmitter_Release_Cycle__Reactome_NCBI_Biosystems","PW_Lists",0.03936409219712
+"693","darkseagreen4","106523_REACTOME_Dopamine_Neurotransmitter_Release_Cycle__Reactome_NCBI_Biosystems","PW_Lists",0.03936409219712
+"694","darkmagenta","105897_REACTOME_DNA_Replication__Reactome_NCBI_Biosystems","PW_Lists",0.0412102530474297
+"695","turquoise","DownWithAlzheimers_Blalock__ADvsCT_inCA1","Brain",0.0416676590836384
+"696","darkmagenta","105821_REACTOME_Assembly_of_the_pre-replicative_complex__Reactome_NCBI_Biosystems","PW_Lists",0.0421586053622913
+"697","darkmagenta","105744_REACTOME_Stabilization_of_p53__Reactome_NCBI_Biosystems","PW_Lists",0.0434980753368161
+"698","darkolivegreen4","B7.1 / B7.2 (CD80  CD86) CD28__ImmunePathway","Immune",0.0437025542548591
+"699","coral1","105686_REACTOME_Regulation_of_activated_PAK-2p34_by_proteasome_mediated_degradation__Reactome_NCBI_Biosystems","PW_Lists",0.0447984405653216
+"700","coral1","105788_REACTOME_CDK-mediated_phosphorylation_and_removal_of_Cdc6__Reactome_NCBI_Biosystems","PW_Lists",0.0447984405653216
+"701","palevioletred3","mutationHuman__JAXdiseaseGene","Brain",0.0450542377201414
+"702","greenyellow","T cell subtype specific molecules__ImmunePathway","Immune",0.0461877734005856
+"703","greenyellow","373889_KEGG_HTLV-I_infection__Kegg_NCBI_Biosystems","PW_Lists",0.0471589670336269
+"704","greenyellow","373901_KEGG_HTLV-I_infection__Kegg_NCBI_Biosystems","PW_Lists",0.0471589670336269
+"705","honeydew1","Neuron_probable__Cahoy","Brain",0.0492961711775551
+"706","darkslateblue","Autism_differential_expression_across_at_least_one_comparison__Voineagu","Brain",0.0493374790900503
+"707","coral1","366161_REACTOME_Class_I_MHC_mediated_antigen_processing_&_presentation__Reactome_NCBI_Biosystems","PW_Lists",0.0497476600664803
