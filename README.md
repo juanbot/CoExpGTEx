@@ -19,3 +19,14 @@ Each network is compound of
 * A csv with the enrichment for the modules from the Gene Ontology, REACTOME and KEGG pathway annotation databases.
 * The residuals (corrected by PMI, Age, Gender and Batch, with ComBat) and Surrogate variables with SVA.
 
+## Install the development version from GitHub:
+
+Recommended that you install first CoExpNets
+```r
+devtools::install_github('juanbot/CoExpNets')
+```
+And then this package
+
+```r
+devtools::install_github('juanbot/CoExpGTEx')
+```
