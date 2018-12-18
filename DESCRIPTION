@@ -1,11 +1,13 @@
 Package: CoExpGTEx
 Type: Package
-Title: What the Package Does (Title Case)
+Title: This package is a suite of co-expression networks to be used with 
+CoExpNets package, also available in GitHub
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Juan A. Botia
+Maintainer: Juan A. Botia <juanbot@um.es>
+Description: It contains 47 networks for the tissues available at the gene expression
+profiling from the GTEx portal (V6 release).
+License: Creative Commons
 Encoding: UTF-8
 LazyData: true
+Imports: CoExpNets
