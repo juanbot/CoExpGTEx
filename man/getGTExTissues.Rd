@@ -2,10 +2,10 @@
 % Please edit documentation in R/main.R
 \name{getGTExTissues}
 \alias{getGTExTissues}
-\title{Title}
+\title{Title Getting all GTEx available tissues}
 \usage{
 getGTExTissues()
 }
 \description{
-Title
+Title Getting all GTEx available tissues
 }
