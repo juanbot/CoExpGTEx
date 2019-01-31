@@ -1,12 +1,10 @@
 Package: CoExpGTEx
 Type: Package
-Title: This package is a suite of co-expression networks to be used with 
-CoExpNets package, also available in GitHub
+Title: Package for networks
 Version: 0.1.0
 Author: Juan A. Botia
 Maintainer: Juan A. Botia <juanbot@um.es>
-Description: It contains 47 networks for the tissues available at the gene expression
-profiling from the GTEx portal (V6 release).
+Description: It contains 47 networks for the tissues available at the gene expression profiling from the GTEx portal (V6 release).
 License: Creative Commons
 Encoding: UTF-8
 LazyData: true

@@ -1,23 +1,23 @@
 
-#' initDbGTEx - Initialization of the package so the GTEx networks can be used with
+#' initDb - Initialization of the package so the GTEx networks can be used with
 #' CoExpNets
 #'
-#' @param mandatory
+#' @param mandatory If this parameter is `TRUE` then the networks will be added no matter whether they were already there.
 #'
-#' @return
+#' @return No value
 #' @export
 #'
 #' @examples
-initDbGTEX = function(mandatory=F){
+initDb = function(mandatory=F){
   the.dir = system.file("", "gtexv6", package = "CoExpGTEx")
   nets = getGTExTissues()
   for(net in nets){
-    addNet(which.one="gtexv6",
+    CoExpNets::addNet(which.one="gtexv6",
            tissue=net,
            netfile=getGTExNet(net),
            ctfile=paste0(the.dir,"/",getGTExNet(net),"_celltype.csv"),
            gofile=paste0(the.dir,"/",getGTExNet(net),"_gprof.csv"),
-           expdatafile=paste0(the.dir,"/",
+           exprdatafile=paste0(the.dir,"/",
                   getGTExNet(net),".resids.rds"),
            overwrite=mandatory)
   }
