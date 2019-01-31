@@ -1,6 +1,6 @@
 Package: CoExpGTEx
 Type: Package
-Title: Package for networks
+Title: Package that contains precalculated GTEx V6 expression data networks for 47 tissues using CoExpNets for their generation
 Version: 0.1.0
 Author: Juan A. Botia
 Maintainer: Juan A. Botia <juanbot@um.es>
@@ -9,3 +9,4 @@ License: Creative Commons
 Encoding: UTF-8
 LazyData: true
 Imports: CoExpNets
+RoxygenNote: 6.1.1
