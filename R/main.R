@@ -41,7 +41,7 @@ getGTExNet = function(tissue){
   if(length(net.file) == 0)
     return(NULL)
 
-  return(paste0(the.dir,net.file))
+  return(paste0(the.dir,"/",net.file))
 }
 
 #' Title Getting all GTEx available tissues
