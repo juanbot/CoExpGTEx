@@ -15,9 +15,9 @@ initDb = function(mandatory=F){
     CoExpNets::addNet(which.one="gtexv6",
            tissue=net,
            netfile=getGTExNet(net),
-           ctfile=paste0(getGTExNet(net),"_celltype.csv"),
+           ctfile=paste0(getGTExNet(net),".celltype.csv"),
            gofile=paste0(getGTExNet(net),"_gprof.csv"),
-           exprdatafile=paste0(getGTExNet(net),".resids.rds"),
+           exprdatafile=paste0(the.dir,"/",net,".resids.rds"),
            overwrite=mandatory)
   }
 }
