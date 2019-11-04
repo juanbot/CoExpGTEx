@@ -61,3 +61,25 @@ getGTExTissues = function(){
   return(net.files)
 }
 
+generateModuleTOMs = function(out.path=NULL){
+  the.dir = system.file("", "gtexv6", package = "CoExpGTEx")
+
+  files = list.files(the.dir)
+  net.files = files[grep("net\\w+\\.\\d+\\.it\\.50\\.rds$",files)]
+  net.files = gsub("net","",net.files)
+  net.files = gsub("\\.it\\.50\\.rds$","",net.files)
+  betas = as.numeric(gsub("[a-zA-Z\\.]+","",net.files))
+
+  tissues = getGTExTissues()
+
+  for(tissue in tissues){
+    cat("Working on",tissue,"\n")
+    beta = betas[which(tissues == tissue)]
+    CoExpNets::getModuleTOMs(tissue=tissue,
+                             beta=beta,
+                             out.path=out.path,
+                             which.one="gtexv6",
+                             package="CoExpGTEx",
+                             instfolder="gtexv6")
+  }
+}
